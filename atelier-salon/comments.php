@@ -1,0 +1,1 @@
+<?php if(post_password_required()) return; ?><section class="comments-area prose"><?php if(have_comments()): ?><h2>Conversation</h2><ol><?php wp_list_comments(array('style'=>'ol','short_ping'=>true)); ?></ol><?php the_comments_pagination(); endif; comment_form(); ?></section>

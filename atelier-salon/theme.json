@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "settings": {
+    "appearanceTools": true,
+    "layout": {
+      "contentSize": "800px",
+      "wideSize": "1320px"
+    },
+    "color": {
+      "defaultPalette": false,
+      "palette": [
+        {
+          "slug": "parchment",
+          "name": "Parchment",
+          "color": "#f7f3ec"
+        },
+        {
+          "slug": "ink",
+          "name": "Espresso",
+          "color": "#29251f"
+        },
+        {
+          "slug": "clay",
+          "name": "Clay",
+          "color": "#84583e"
+        },
+        {
+          "slug": "sage",
+          "name": "Sage",
+          "color": "#e7e8df"
+        },
+        {
+          "slug": "forest",
+          "name": "Forest",
+          "color": "#323e35"
+        },
+        {
+          "slug": "sand",
+          "name": "Sand",
+          "color": "#ebe3d7"
+        }
+      ],
+      "gradients": [
+        {
+          "slug": "atelier-parchment",
+          "name": "Champagne parchment",
+          "gradient": "linear-gradient(135deg, #f7f3ec 0%, #edddca 100%)"
+        },
+        {
+          "slug": "atelier-bronze",
+          "name": "Clay & espresso",
+          "gradient": "linear-gradient(115deg, #84583e 0%, #29251f 100%)"
+        },
+        {
+          "slug": "atelier-forest",
+          "name": "Forest after dusk",
+          "gradient": "linear-gradient(135deg, #323e35 0%, #202e28 100%)"
+        },
+        {
+          "slug": "atelier-ritual",
+          "name": "Sage & champagne",
+          "gradient": "linear-gradient(120deg, #e7e8df 0%, #f7f3ec 55%, #edddca 100%)"
+        }
+      ]
+    },
+    "typography": {
+      "fontFamilies": [
+        {
+          "fontFamily": "Cormorant Garamond, Georgia, serif",
+          "name": "Editorial serif",
+          "slug": "editorial"
+        },
+        {
+          "fontFamily": "DM Sans, Arial, sans-serif",
+          "name": "Studio sans",
+          "slug": "studio"
+        }
+      ],
+      "fontSizes": [
+        {
+          "slug": "small",
+          "size": "13px",
+          "name": "Small"
+        },
+        {
+          "slug": "medium",
+          "size": "17px",
+          "name": "Body"
+        },
+        {
+          "slug": "large",
+          "size": "32px",
+          "name": "Title"
+        },
+        {
+          "slug": "display",
+          "size": "clamp(56px, 7vw, 112px)",
+          "name": "Display"
+        }
+      ]
+    },
+    "spacing": {
+      "units": [
+        "px",
+        "rem",
+        "em",
+        "%",
+        "vw",
+        "vh"
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+ATELIER 3.0 — RELEASE CANDIDATE
+
+Completed: PHP syntax parsing, JS syntax check, local asset/link validation,
+core block parsing checks, ZIP integrity checks and palette contrast checks.
+Runtime smoke tests passed on WordPress 7.1.4 / PHP 8.5.12 using PHP-WASM and
+SQLite: theme activation; starter-page creation; reading settings and menu setup;
+block rendering; companion activation and form output; asset enqueueing.
+Appointment tests passed with mail mocked (no external email): valid request,
+throttling, past-date rejection, missing consent, invalid email and invalid nonce.
+The hosted preview is static; it does not execute WordPress or send requests.
+
+Required before commercial release:
+- Broaden testing to claimed PHP/WordPress versions and conventional MySQL hosting.
+- Repeat on staging with WP_DEBUG and the production email configuration.
+- Run Theme Check and WordPress Theme Unit Test Data. Resolve all findings.
+- Test native-block editing, saving/reopening patterns and existing-page upgrades.
+- Test password-protected, paginated, sticky, archive, search, comments and 404 views.
+- Test keyboard navigation, screen readers, mobile and major desktop browsers.
+- Test appointment success/failure, SMTP delivery, nonce expiry and spam handling.
+- Complete string translation review and generate POT files for final source.
+- Confirm target marketplace requirements, permitted demo assets and licenses.
+- Set your business metadata, documentation/support URLs and update/support policy.
+- Check applicable privacy disclosures, cancellation terms and accessibility claims.
+
+No browser visual QA pass, full WordPress compatibility matrix, marketplace
+certification, WooCommerce compatibility, multilingual compatibility or measured
+performance score is claimed.
+
+2.1 interaction tests: DOM tests passed for hover, tap/click, keyboard focus,
+arrow/Home/End navigation, single expansion, linked panels, and reduced-motion
+initialization. These tests do not replace browser animation/visual QA.
+
+2.2: gradient token output passed on the WordPress runtime for all three color
+collections. Accent and muted text passed 4.5:1 against each collection’s
+darkest pale gradient stop. Arbitrary custom accent colors require a new check.
+
+2.3: WordPress checks passed for six published service pages, rendered FAQs and
+booking links, resolved assets, registered patterns, repeated setup without
+duplicates, preservation of buyer edits and Reading/menu settings, and six
+service submenu entries on new-menu creation.
+
+2.4: updated homepage block rendering and mirror asset resolution passed in
+WordPress. Service interaction tests pass with the revised layout. Tablet CSS
+now stacks the service stage at 850px and hero at 760px to address the supplied
+615px screenshot. Visual/browser regression testing remains outstanding.
+
+3.0: Noir homepage core-block rendering, body class, appointment plugin output
+and alternate demo pattern passed in WordPress. DOM checks passed for desktop
+menu toggle/Escape, gallery reveal, reduced motion and the static non-sending
+booking demo. Source reference was inspected in a browser; the rebuilt demo
+still requires browser visual regression QA.

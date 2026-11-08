@@ -1,0 +1,1 @@
+<?php get_header(); ?><section class="page-heading error-page"><p class="eyebrow">404 / PAGE NOT FOUND</p><h1>A little off course.</h1><p>We couldn't find that page. Let's get you back to the studio.</p><a class="button" href="<?php echo esc_url(home_url('/')); ?>">Back home ↗</a></section><?php get_footer(); ?>

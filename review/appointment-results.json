@@ -1,0 +1,42 @@
+[
+  {
+    "case": "valid",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=sent",
+    "mailCalled": true
+  },
+  {
+    "case": "invalid-nonce",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=error",
+    "mailCalled": false
+  },
+  {
+    "case": "past",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=error",
+    "mailCalled": false
+  },
+  {
+    "case": "consent",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=error",
+    "mailCalled": false
+  },
+  {
+    "case": "bad-email",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=error",
+    "mailCalled": false
+  },
+  {
+    "case": "honeypot",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=error",
+    "mailCalled": false
+  },
+  {
+    "case": "throttle",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=error",
+    "mailCalled": false
+  },
+  {
+    "case": "mail-failure",
+    "redirect": "http://127.0.0.1:8095/?page_id=12&appointment=error",
+    "mailCalled": true
+  }
+]

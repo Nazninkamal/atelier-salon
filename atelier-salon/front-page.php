@@ -1,0 +1,1 @@
+<?php get_header(); if(have_posts()): while(have_posts()): the_post(); ?><article <?php post_class(); ?>><div class="entry-content"><?php if(trim(get_the_content())) { the_content(); } else { $starter=require get_template_directory().'/starter-content.php'; echo apply_filters('the_content',$starter['home'][1]); } ?></div></article><?php endwhile; endif; get_footer(); ?>

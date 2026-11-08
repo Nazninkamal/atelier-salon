@@ -1,0 +1,45 @@
+3.0.1 — Updated service portrait
+- Original dark editorial hair photograph for the homepage service menu.
+
+3.0.0 — Noir hair salon direction
+- New dark editorial homepage inspired by the requested Hair Salon reference.
+- Oversized wordmark, original portrait, service menu and staggered gallery.
+- Desktop menu panel, dark inner-page styling and request-form presentation.
+- Existing warm editorial homepage retained as an alternate demo/pattern.
+
+2.4.1 — Restore service composition
+- Restored the previous compact service showcase and caption styling.
+- Preserved safe column sizing to avoid overlap at intermediate widths.
+
+2.4.0 — Responsive spacing and reflection story
+- Headline spacing and intermediate-width layouts refined.
+- Service image/list overlap fixed; captions enlarged with stronger scrims.
+- New mirror-inspired philosophy composition and original generated image.
+
+2.3.0 — Dedicated service detail pages
+- Six core-block service layouts with preparation notes, FAQs and related links.
+- Overview and interactive showcase links to the detail pages.
+- Safe service-page addition for existing sites; new-install service submenu.
+- Collapsed interactive descriptions remove their links from keyboard navigation.
+
+2.2.0 — Tonal gradient collection
+- Champagne hero and service surfaces, forest gallery, sage booking callout.
+- Clay-to-espresso buttons and coordinated footer gradients.
+- Four block-editor gradient presets; collection-aware gradient colors.
+- Darker muted text on pale backgrounds and reduced-motion button support.
+
+2.1.0 — Interactive homepage service edit
+- Editable service rows with crossfading image previews.
+- Hover, focus and tap selection; keyboard-accessible accordion controls.
+- Scroll reveals and gentle image movement with reduced-motion support.
+
+2.0.0 — Commercial release candidate
+- Original split editorial homepage and revised inner-page layouts.
+- Local serif/sans fonts with bundled SIL licenses.
+- Native core-block starter layouts and reusable patterns.
+- theme.json palette, typography and editor controls.
+- Standalone optional appointment plugin and child theme.
+- Updated buyer installation and upgrade guide.
+
+1.1.0 — Warm ivory, espresso, clay and sage palette.
+1.0.0 — Initial theme and starter pages.

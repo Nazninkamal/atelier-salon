@@ -1,0 +1,300 @@
+{
+  "results": [
+    {
+      "setup": "starter pages created"
+    },
+    {
+      "width": 1440,
+      "page": "home",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "services",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "portfolio",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "our-team",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "book-appointment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "cut-finish",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "studio-home",
+      "status": 200,
+      "overflow": false,
+      "h1": 2,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "page": "nonexistent-review-page",
+      "status": 404,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 1440,
+      "menuVisible": true
+    },
+    {
+      "width": 1440,
+      "menuClosed": true
+    },
+    {
+      "width": 768,
+      "page": "home",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "services",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "portfolio",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "our-team",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "book-appointment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "cut-finish",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "studio-home",
+      "status": 200,
+      "overflow": false,
+      "h1": 2,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "page": "nonexistent-review-page",
+      "status": 404,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 768,
+      "menuVisible": true
+    },
+    {
+      "width": 768,
+      "menuClosed": true
+    },
+    {
+      "width": 390,
+      "page": "home",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "services",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "portfolio",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "our-team",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "book-appointment",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "cut-finish",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "studio-home",
+      "status": 200,
+      "overflow": true,
+      "h1": 2,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "blog",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "page": "nonexistent-review-page",
+      "status": 404,
+      "overflow": false,
+      "h1": 1,
+      "brokenImages": []
+    },
+    {
+      "width": 390,
+      "menuVisible": true
+    },
+    {
+      "width": 390,
+      "menuClosed": true
+    },
+    {
+      "bookingForms": 1,
+      "nonce": 1
+    }
+  ],
+  "jsErrors": []
+}
