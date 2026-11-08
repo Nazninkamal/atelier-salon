@@ -1,0 +1,1126 @@
+{
+  "observations": [
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "chromium",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 1440,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 768,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 390,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-studio-home",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-about",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-services",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-portfolio",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-our-team",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-contact",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-book-appointment",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-cut-finish",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-color-gloss",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-balayage",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-scalp-repair",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-occasion-styling",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "browser": "firefox",
+      "port": 8095,
+      "width": 320,
+      "page": "atelier-elementor-consultation",
+      "status": 200,
+      "h1": 1,
+      "overflow": false,
+      "brokenImages": []
+    }
+  ],
+  "jsErrors": [],
+  "failures": []
+}

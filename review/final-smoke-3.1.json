@@ -1,0 +1,10 @@
+{
+  "fourteenEditLinks": true,
+  "invalidNonce403": true,
+  "httpFormRedirectsSent": true,
+  "smtpMessageReceived": true,
+  "successMessageVisible": true,
+  "elementorOffFallbackH1": true,
+  "warmFallbackPreserved": true,
+  "childThemeLoads": true
+}

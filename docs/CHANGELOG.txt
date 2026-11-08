@@ -1,3 +1,13 @@
+3.1.0 — Elementor Free and release-readiness improvements
+- Fourteen separately editable Elementor Free pages and safe explicit setup.
+- Warm service-row overflow, duplicate template H1, long post navigation and comment controls fixed.
+- Theme/plugin/starter-copy translation hooks and POT catalogs.
+- Full GPL license text, asset inventory, local font notices, theme screenshot.
+- Earlier stock files replaced by supplied illustrative AI images; legacy filenames retained.
+- Seller/support information, HTML buyer guide, test report and versioned packaging.
+- Appointment validation hardened; no-cache handling and actual local SMTP tests.
+- Setup reruns preserve Reading settings; new privacy copy remains draft.
+
 3.0.1 — Updated service portrait
 - Original dark editorial hair photograph for the homepage service menu.
 

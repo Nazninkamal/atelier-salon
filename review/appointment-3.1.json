@@ -1,0 +1,15 @@
+{
+  "valid": true,
+  "invalid-nonce": true,
+  "past": true,
+  "bad-consent": true,
+  "bad-email": true,
+  "honeypot": true,
+  "array-input": true,
+  "phone-too-long": true,
+  "invalid-date": true,
+  "invalid-service": true,
+  "invalid-time": true,
+  "throttle": true,
+  "mail-failure": true
+}

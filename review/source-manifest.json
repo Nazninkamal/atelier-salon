@@ -1,63 +1,111 @@
 [
   {
+    "path": "atelier-appointments/LICENSE",
+    "bytes": 18072,
+    "sha256": "b90ed8150a6d371c84b7dbaa680cd0e9893ef7c2558765e1e00930513efcfe3b",
+    "gitSha": "15f75cf7d51a7f1de0d816c0d80153f92b429009"
+  },
+  {
+    "path": "atelier-appointments/LICENSING.md",
+    "bytes": 1745,
+    "sha256": "f4d5d2f4d383ee74a8aac63536afca8dc7ecd37628e4e55981a98b8b69918edf",
+    "gitSha": "bc7b369fe71cf37c9840a96bafdd1fb4c44569bd"
+  },
+  {
+    "path": "atelier-appointments/SUPPORT.md",
+    "bytes": 1709,
+    "sha256": "9347199b5686f17f7dd844fedbf018603fe9cfa0c69a893831e5e14b4295ed03",
+    "gitSha": "e3a0df829a684bf15b5d0ad0b11494ccf2c9f1c4"
+  },
+  {
     "path": "atelier-appointments/atelier-appointments.php",
-    "bytes": 5296,
-    "sha256": "05b6bd180eeeccb1e2ee5de8c3ddf08b53ba4ec4e78134ced7d161a28ca7128e",
-    "gitSha": "5aa1ef76a7b33c951ac702083a60e2cdea3364be"
+    "bytes": 8804,
+    "sha256": "64677be91379ef5de028a8a8844dc24ae34f94e5951f5c9ef5f8fe9a4ea6b4cd",
+    "gitSha": "55cd2df38aa2054bade332b9ca94a6575d9d573e"
+  },
+  {
+    "path": "atelier-appointments/languages/atelier-appointments.pot",
+    "bytes": 3950,
+    "sha256": "c8e9503ab06b0ebafc88177d4760cdec3518d98d86111ce5abf396ea48da6930",
+    "gitSha": "d67126632962371ae3a19f3e8a2bbcd5712c5181"
   },
   {
     "path": "atelier-appointments/readme.txt",
-    "bytes": 581,
-    "sha256": "30160346296d7023b33c65ed8d4a66c94caec9847feef2c5ec381cbc0354c8d1",
-    "gitSha": "d223d13b154c4c3346f9602391388c193e32d6e2"
+    "bytes": 1373,
+    "sha256": "b51df6d771ec7c1f028e7022b268fdfe348d24b0be5a8ae2f38f3bcbff39d14c",
+    "gitSha": "757ad78b668a816b9ea58724a37c027491045aa8"
   },
   {
     "path": "atelier-salon/404.php",
-    "bytes": 315,
-    "sha256": "da35b28e5f987369ce840cf2d731e7f871a93cd1448433bb1c5161f23ea4fb06",
-    "gitSha": "9cd230a86d2bfa3b08465594fb0e0048142d5c60"
+    "bytes": 481,
+    "sha256": "f5ac82021269ce037d1888fffb3411a67196b993cbcd568a796a890dbaf905f8",
+    "gitSha": "a4aa181e89e18cfd48bbf979753dfba2d7d71869"
   },
   {
     "path": "atelier-salon/CHANGELOG.txt",
-    "bytes": 2287,
-    "sha256": "1e0806048c9db3dedb85052f790ad71a3c430bd406e82e1c15da6c40bcabd7bc",
-    "gitSha": "4e8b685ae644bb82b1a1b880497ed0475002467e"
+    "bytes": 3005,
+    "sha256": "17589fee626844f242ab9dbf996bfad60033abb8dedd38519ac9aac75456513f",
+    "gitSha": "add703f9006e8ac7444fa023164a6308a0093f21"
   },
   {
     "path": "atelier-salon/IMAGE-CREDITS.txt",
-    "bytes": 2005,
-    "sha256": "eb881221f832df2009264ff108189d364018de8821de26dc152aaae38e7efd35",
-    "gitSha": "eadd2917c773bc7e59e3e9420b6c88f9cc12d65f"
+    "bytes": 913,
+    "sha256": "350cc6039ac3eff2650908ea3a93afc82b49207389846ff3b279acb9115171a3",
+    "gitSha": "74c28a9d1c08c9b22e95020703e0388073b1df5e"
+  },
+  {
+    "path": "atelier-salon/LICENSE",
+    "bytes": 18072,
+    "sha256": "b90ed8150a6d371c84b7dbaa680cd0e9893ef7c2558765e1e00930513efcfe3b",
+    "gitSha": "15f75cf7d51a7f1de0d816c0d80153f92b429009"
+  },
+  {
+    "path": "atelier-salon/LICENSING.md",
+    "bytes": 1745,
+    "sha256": "f4d5d2f4d383ee74a8aac63536afca8dc7ecd37628e4e55981a98b8b69918edf",
+    "gitSha": "bc7b369fe71cf37c9840a96bafdd1fb4c44569bd"
   },
   {
     "path": "atelier-salon/README.txt",
-    "bytes": 5833,
-    "sha256": "e364ba326d8b27627c341acf9b1a004103ca67b306d8d3e04752b0f1b7c6c7b5",
-    "gitSha": "39546f0346133d8b533cfbe56597afcfc04830bf"
+    "bytes": 4395,
+    "sha256": "5fdf5b02e761c58e8f8d21b6344cae4e38a557fd23d76a673e12272da9a47bfe",
+    "gitSha": "75a55d5c1068f9f50c501e6f5f39838a2f013fe4"
   },
   {
     "path": "atelier-salon/RELEASE-STATUS.txt",
-    "bytes": 3187,
-    "sha256": "a95deca70461a4fd59f5b5b8f380da4ce0e0eebe39bfd9cb91fa2717ab430b4c",
-    "gitSha": "c160fe33b146141544833841046b53249b187576"
+    "bytes": 1114,
+    "sha256": "85425a354157b7ea8de373f60729d7bccd1d98b8821ad386c7b9b1e4d5d2dc0d",
+    "gitSha": "7f1bbac8374563a5f745b6df6f4b542ea4e38408"
+  },
+  {
+    "path": "atelier-salon/SUPPORT.md",
+    "bytes": 1709,
+    "sha256": "9347199b5686f17f7dd844fedbf018603fe9cfa0c69a893831e5e14b4295ed03",
+    "gitSha": "e3a0df829a684bf15b5d0ad0b11494ccf2c9f1c4"
   },
   {
     "path": "atelier-salon/assets/care.jpg",
-    "bytes": 123691,
-    "sha256": "0fea441e77d918f5201dc208d677870825e0f8692af5232e5fa255210a975925",
-    "gitSha": "e73f8411082979eacc3cebbe9e1a7a2282f4425d"
+    "bytes": 260457,
+    "sha256": "e7778fd9ad003ffe6807f95d75bb6bdd9a41db375c0b6f6be28c5fe2639dcf3c",
+    "gitSha": "9f69a8800e6ff1b2b902bf658bc0646bda2dafde"
   },
   {
     "path": "atelier-salon/assets/color.jpg",
-    "bytes": 217548,
-    "sha256": "18b7f08133a3f0d35b458fabd0b97bbc2650bae909b2025dcf89347f70f62948",
-    "gitSha": "2fa72442a3176c490bc5ad0df19fc1f82643c469"
+    "bytes": 309650,
+    "sha256": "539a6235805f8b985df5b971d318cea6b21957adbfe153d5757812b23a5ea5c8",
+    "gitSha": "bb0bec933e5f4dc1629d93bb6cac319fc18d08b7"
   },
   {
     "path": "atelier-salon/assets/detail.jpg",
-    "bytes": 115145,
-    "sha256": "592d5f8a5ad2f8c76892ca0656c2989b900d194454ff62d51a6f7c998dc16c6b",
-    "gitSha": "6971f428e790e93f7075e5d77ba500f472e02006"
+    "bytes": 309650,
+    "sha256": "539a6235805f8b985df5b971d318cea6b21957adbfe153d5757812b23a5ea5c8",
+    "gitSha": "bb0bec933e5f4dc1629d93bb6cac319fc18d08b7"
+  },
+  {
+    "path": "atelier-salon/assets/elementor.css",
+    "bytes": 90404,
+    "sha256": "27eec57b72910a0bbdd717d455f7eb24eedf8d21b75f3347f2b34d0d3852fcdf",
+    "gitSha": "041bb84e9abb6a2f3d8263ab3c782ae33bb8d2c0"
   },
   {
     "path": "atelier-salon/assets/fonts/OFL-Cormorant.txt",
@@ -85,9 +133,9 @@
   },
   {
     "path": "atelier-salon/assets/hair.jpg",
-    "bytes": 121485,
-    "sha256": "beec9325fd1c11de41eabc7ea39c7b085178fd14c99303af5f753508473f5895",
-    "gitSha": "d40ac19746774605b6fb75482e969983da018c1f"
+    "bytes": 309650,
+    "sha256": "539a6235805f8b985df5b971d318cea6b21957adbfe153d5757812b23a5ea5c8",
+    "gitSha": "bb0bec933e5f4dc1629d93bb6cac319fc18d08b7"
   },
   {
     "path": "atelier-salon/assets/mirror-self.jpg",
@@ -109,39 +157,39 @@
   },
   {
     "path": "atelier-salon/assets/salon.jpg",
-    "bytes": 327194,
-    "sha256": "3470365c391f6104d23b5a3de96bc7a6505bce83c9616acee85a15627e69ac91",
-    "gitSha": "a3d9c0868ecfff7a450af092c242fe3a23d19532"
+    "bytes": 260457,
+    "sha256": "e7778fd9ad003ffe6807f95d75bb6bdd9a41db375c0b6f6be28c5fe2639dcf3c",
+    "gitSha": "9f69a8800e6ff1b2b902bf658bc0646bda2dafde"
   },
   {
     "path": "atelier-salon/assets/style.jpg",
-    "bytes": 317524,
-    "sha256": "6a4b77e7de1fff0f64cca3df7008a05cdd5104d5f6e811b6cf49996550d0da33",
-    "gitSha": "7f3fc8eb31f2426d68563f7a9f181a4844d22716"
+    "bytes": 212721,
+    "sha256": "5f3e84507328ec6a1466e51b77caae994120d6f37e1d884deb8e01e6a41eb75a",
+    "gitSha": "fd79b365ae83a8c437e7f9eecc9a8aec19c411d9"
   },
   {
     "path": "atelier-salon/assets/stylist1.jpg",
-    "bytes": 129368,
-    "sha256": "a1704babb94139a764c6fe0e63e1a775b5b5867431e79cc1bdf1e0f5805b651a",
-    "gitSha": "452a93c14b229a54982f74d59b466a930abe3b89"
+    "bytes": 309650,
+    "sha256": "539a6235805f8b985df5b971d318cea6b21957adbfe153d5757812b23a5ea5c8",
+    "gitSha": "bb0bec933e5f4dc1629d93bb6cac319fc18d08b7"
   },
   {
     "path": "atelier-salon/assets/stylist2.jpg",
-    "bytes": 272905,
-    "sha256": "8feccaeb886fbf348268ff3c3072daf1e08359b0fb04e56c9c866450eaa34182",
-    "gitSha": "0a2400b27692d2bd4395360c36c8e2249b1a48b0"
+    "bytes": 212721,
+    "sha256": "5f3e84507328ec6a1466e51b77caae994120d6f37e1d884deb8e01e6a41eb75a",
+    "gitSha": "fd79b365ae83a8c437e7f9eecc9a8aec19c411d9"
   },
   {
     "path": "atelier-salon/assets/stylist3.jpg",
-    "bytes": 115318,
-    "sha256": "8518cde7b0708cde098e4493adf2e4cfbe981c05f180c206941b96d6840ebdb7",
-    "gitSha": "260ac5b042e2abeb7d27b5d2a2e57d679734fa8c"
+    "bytes": 260457,
+    "sha256": "e7778fd9ad003ffe6807f95d75bb6bdd9a41db375c0b6f6be28c5fe2639dcf3c",
+    "gitSha": "9f69a8800e6ff1b2b902bf658bc0646bda2dafde"
   },
   {
     "path": "atelier-salon/assets/theme.css",
-    "bytes": 63946,
-    "sha256": "ae759d9c6edefae9b4edd5cb9f5c774a8f810d66463962e09d2b74fff481de9d",
-    "gitSha": "f04ff5ff75bcc4eb34f87cfb8aeccf4446943954"
+    "bytes": 65513,
+    "sha256": "9d9fe6b8f86938c255566208c99515632475cc57d35b5d23fb582f104f6bcf6a",
+    "gitSha": "088c787d008164ff1250639d757c9e0ee45e6de2"
   },
   {
     "path": "atelier-salon/assets/theme.js",
@@ -151,15 +199,33 @@
   },
   {
     "path": "atelier-salon/comments.php",
-    "bytes": 276,
-    "sha256": "6e833b5688a97ed268be47408aeacb693d8159dc37fcfafcdbb0e364746c1401",
-    "gitSha": "42f53674854a4d9e32a363b7908eea0fc33965cf"
+    "bytes": 317,
+    "sha256": "28f016936a8690bb25453329794b7c986925d6d64dbcd30424d4d1afa9cd6ef1",
+    "gitSha": "b6f56e3a4f7ad15d32ebbacde2bdbfc3c8bb1f43"
+  },
+  {
+    "path": "atelier-salon/docs/INSTALL.html",
+    "bytes": 4859,
+    "sha256": "db2dd735b40d13416e5b50938956e066f2df3c1c88f4f8059c225975926c539d",
+    "gitSha": "69d66f37e31c00a4684d992e12ed1fa3f01408e6"
+  },
+  {
+    "path": "atelier-salon/docs/TEST-REPORT.md",
+    "bytes": 5790,
+    "sha256": "a5c6ff65a64b44bdd0674d88e738ef9a87f94c40c2bd12cab6fe82ea6e6a854f",
+    "gitSha": "c1ec5c90606251e0e470e7a73acda987311ae31e"
+  },
+  {
+    "path": "atelier-salon/elementor.php",
+    "bytes": 9391,
+    "sha256": "3fc90eb754d1d949a069e79cdce40e1376873f9454122237f1d1bf1e549d2791",
+    "gitSha": "54115c9bc5472a2f3bdd54b010305e9d12d27eb5"
   },
   {
     "path": "atelier-salon/footer.php",
-    "bytes": 1230,
-    "sha256": "6f178b0c82b3470df0a86a4491376201b7f71dba6f352c8a60b91e889d69ac28",
-    "gitSha": "8a738e56989bdf5957a430b2ae68dd8f64bf0381"
+    "bytes": 1559,
+    "sha256": "3b27ebf2631e7c1fd1756fcd05cd8b95e72dcda5a3910e017427afc05e1cd120",
+    "gitSha": "2a8aad48a660d5a2c82c659bcbc31dec4561c559"
   },
   {
     "path": "atelier-salon/front-page.php",
@@ -169,27 +235,51 @@
   },
   {
     "path": "atelier-salon/functions.php",
-    "bytes": 11407,
-    "sha256": "fac47ea35823f23099f7c8c1fa95c65e6ffbaeb6bcd1a982ba380bab654d6416",
-    "gitSha": "92c19d3ce006db3d2222d7bdb5d7647b2e8c258c"
+    "bytes": 12475,
+    "sha256": "df63a00d9ab9332523d8a2468d51119f591d8936ac4df43909123cdd5dd49ca8",
+    "gitSha": "b1120e2801567bb3402c2dc0a03d5fcc47f8423d"
   },
   {
     "path": "atelier-salon/header.php",
-    "bytes": 1033,
-    "sha256": "abd2ecd027fa7f837ebfe4850a67de4cd63800038a5db4812b4e5482d17c025d",
-    "gitSha": "1491b0d56b3d3a95fb8fe83301b766c284a22e49"
+    "bytes": 1234,
+    "sha256": "ebe57e1c55fa547a919ed69ebd43d0f36a81846a4af7b567e6e4957de1222a6c",
+    "gitSha": "c40b6a714f7046925df02c2bacf822c29346ff97"
   },
   {
     "path": "atelier-salon/index.php",
-    "bytes": 964,
-    "sha256": "21513e427ef68a65303265567be52d03112ead80fff57dbf084c8f0fd5480e2c",
-    "gitSha": "d02e80f2c40f97fa591b359e6d5463a311243874"
+    "bytes": 1115,
+    "sha256": "83ac12aaa9082279df4848105c8521b1690f44231e04830abbc2028430bf62b7",
+    "gitSha": "a6bf791caa5061b317c5a894b31d73c66a4c9fef"
+  },
+  {
+    "path": "atelier-salon/languages/atelier-salon.pot",
+    "bytes": 42961,
+    "sha256": "106a78e455ed772f2b1e6d786e8e4c2ffce973d1694a9c405f01491107d33df5",
+    "gitSha": "46ebb481850ba3593bc680766646cacbf04ea1ad"
+  },
+  {
+    "path": "atelier-salon/page-elementor.php",
+    "bytes": 507,
+    "sha256": "1b4ba06dbcfbe581d64adc8d16c7493fb1212ebeb2d87f372a97aaaaf0803c0e",
+    "gitSha": "836533ec02b005a40078773a36dfdd63c494abcd"
   },
   {
     "path": "atelier-salon/page.php",
-    "bytes": 481,
-    "sha256": "575c3a5a72ce1bffc9bde4c5f66ff8287a7ea0326ad71eebdb0b9f25dd25a7b5",
-    "gitSha": "9c1bfc50f44c9df994387b6cc40383e72319d1e1"
+    "bytes": 508,
+    "sha256": "53de77654d6236e77b8a95e1bf95a6a9f2009c56a497d7833e1b326bf76c5489",
+    "gitSha": "813d04f86edc76897f1476ba7ef72c893c7d60c8"
+  },
+  {
+    "path": "atelier-salon/readme.txt",
+    "bytes": 778,
+    "sha256": "bdb4c3634bf42aeb15dd5516aa31a289cde1b39f67793d83f8c0373aa7ac2b5d",
+    "gitSha": "9ac22c4698e1b65a51a14ca6a96d40d67a849d2d"
+  },
+  {
+    "path": "atelier-salon/screenshot.jpg",
+    "bytes": 59031,
+    "sha256": "5acbf5b8a4aa6c19342f9a26f43f1bd1fea8e1588857885007c69b9a9d37c85e",
+    "gitSha": "32df0bcbca177bc5954bda2153414b6c12f22fc7"
   },
   {
     "path": "atelier-salon/search.php",
@@ -199,27 +289,51 @@
   },
   {
     "path": "atelier-salon/single.php",
-    "bytes": 567,
-    "sha256": "29416b52c5d71d2dc89099b18bf8424acc15bae352278430817da3a38b9dd696",
-    "gitSha": "dcb12ba7f4a1252a6f6664073099fd89e2485b9e"
+    "bytes": 616,
+    "sha256": "a7adf16de92eaa0c5b2a2e8ec6931b40ba066c4941fe93ea40423d09a5da12b7",
+    "gitSha": "3d29977d85238e3336a18dd4fe5a3e0a22175f54"
   },
   {
     "path": "atelier-salon/starter-content.php",
-    "bytes": 131884,
-    "sha256": "1098fb07dfeb6e6807b6d2a727b0fb5c3a1b380c49d05f1b3d8bcc0d23e59d03",
-    "gitSha": "ad7bd2c9600e33504c991489b1785b9afb0eb26a"
+    "bytes": 134334,
+    "sha256": "cb04e6923f43e76b06636d54d8dbedf9c229b66a8136920678033e807d1e8eaf",
+    "gitSha": "17520a5dfed73b11e83b589fae68763e7c7155a2"
+  },
+  {
+    "path": "atelier-salon/starter-translations.php",
+    "bytes": 46302,
+    "sha256": "fe00dd0204a45b8ed1ba62f14bc99b57926473db02456c3d5437238b1fba232e",
+    "gitSha": "7245f1224b28bf919e3e260279a6f3701d592dcb"
   },
   {
     "path": "atelier-salon/style.css",
-    "bytes": 394,
-    "sha256": "b1c231cb17292e5c30da8e4870625eb1d3d9dc8581a4dc994e3789ce4caa4489",
-    "gitSha": "e639f5005e89072b517a80e46bd941f1ba0f7f25"
+    "bytes": 694,
+    "sha256": "4823ca5bacddc942feeeea7be3acad478d164126429660d78f1d3cd3d9b51582",
+    "gitSha": "1cd15a7cdbb2042aeb9288ab08fe0a4b6219ac06"
   },
   {
     "path": "atelier-salon/theme.json",
     "bytes": 2506,
     "sha256": "64a1d58da2fc8fea87644bee9ca854687c19b0a9fcf7517faa93c1ab0e094f28",
     "gitSha": "6d28ed09fb56879cc6f762a347ca2f2d466f8895"
+  },
+  {
+    "path": "atelier-salon-child/LICENSE",
+    "bytes": 18072,
+    "sha256": "b90ed8150a6d371c84b7dbaa680cd0e9893ef7c2558765e1e00930513efcfe3b",
+    "gitSha": "15f75cf7d51a7f1de0d816c0d80153f92b429009"
+  },
+  {
+    "path": "atelier-salon-child/LICENSING.md",
+    "bytes": 1745,
+    "sha256": "f4d5d2f4d383ee74a8aac63536afca8dc7ecd37628e4e55981a98b8b69918edf",
+    "gitSha": "bc7b369fe71cf37c9840a96bafdd1fb4c44569bd"
+  },
+  {
+    "path": "atelier-salon-child/SUPPORT.md",
+    "bytes": 1709,
+    "sha256": "9347199b5686f17f7dd844fedbf018603fe9cfa0c69a893831e5e14b4295ed03",
+    "gitSha": "e3a0df829a684bf15b5d0ad0b11494ccf2c9f1c4"
   },
   {
     "path": "atelier-salon-child/functions.php",
@@ -229,8 +343,8 @@
   },
   {
     "path": "atelier-salon-child/style.css",
-    "bytes": 169,
-    "sha256": "f4b5f8725e558619bd07469418f6cef9467522fa2c0cbccdec3d4714db5b5122",
-    "gitSha": "e8a5c0a648aa82c10b8750b5ebd3be6ea0d519a8"
+    "bytes": 288,
+    "sha256": "4b5a85914c73175cba8cbf5d930aae3e560e37ef0dab0852b3b6a910e63fb91c",
+    "gitSha": "cb029e0c9bcd57c1101c834ea7b559b9c5f3446b"
   }
 ]

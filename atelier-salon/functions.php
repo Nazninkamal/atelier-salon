@@ -1,8 +1,9 @@
 <?php
 if (!defined('ABSPATH')) { exit; }
-define('ATELIER_VERSION', '3.0.1');
+define('ATELIER_VERSION', '3.1.0');
 function atelier_setup() {
  load_theme_textdomain('atelier-salon', get_template_directory() . '/languages');
+ if (function_exists('register_block_style')) register_block_style('core/group',array('name'=>'atelier-outline','label'=>__('Atelier outline','atelier-salon'),'inline_style'=>'.wp-block-group.is-style-atelier-outline{border:1px solid currentColor;padding:2rem}'));
  add_theme_support('title-tag'); add_theme_support('post-thumbnails');
  add_theme_support('automatic-feed-links'); add_theme_support('responsive-embeds');
  add_theme_support('html5', array('search-form','comment-form','comment-list','gallery','caption','style','script'));
@@ -21,36 +22,41 @@ function atelier_image($name) { return get_template_directory_uri().'/assets/'.$
 function atelier_link($slug) { $page=get_page_by_path($slug); return $page ? get_permalink($page) : (get_option('permalink_structure') ? home_url('/'.$slug.'/') : add_query_arg('pagename',$slug,home_url('/'))); }
 function atelier_fallback_menu() {
  echo '<ul class="menu">';
- foreach(array('home'=>'Home','about'=>'About','services'=>'Services','portfolio'=>'Our work','our-team'=>'Team','blog'=>'Journal','contact'=>'Contact') as $slug=>$label) {
+ foreach(array('home'=>__('Home','atelier-salon'),'about'=>__('About','atelier-salon'),'services'=>__('Services','atelier-salon'),'portfolio'=>__('Our work','atelier-salon'),'our-team'=>__('Team','atelier-salon'),'blog'=>__('Journal','atelier-salon'),'contact'=>__('Contact','atelier-salon')) as $slug=>$label) {
   echo '<li><a href="'.esc_url($slug==='home'?home_url('/'):atelier_link($slug)).'">'.esc_html($label).'</a></li>';
  } echo '</ul>';
 }
 function atelier_customize($c) {
  $c->add_section('atelier_details',array('title'=>__('Salon details','atelier-salon'),'priority'=>30));
- foreach(array('phone'=>'Phone number','address'=>'Salon address','hours'=>'Opening hours') as $key=>$label) {
-  $c->add_setting('atelier_'.$key,array('default'=>'','sanitize_callback'=>$key==='booking_email'?'sanitize_email':'sanitize_text_field'));
-  $c->add_control('atelier_'.$key,array('label'=>$label,'section'=>'atelier_details','type'=>$key==='booking_email'?'email':'text'));
+ foreach(array('phone'=>__('Phone number','atelier-salon'),'address'=>__('Salon address','atelier-salon'),'hours'=>__('Opening hours','atelier-salon')) as $key=>$label) {
+  $c->add_setting('atelier_'.$key,array('default'=>'','sanitize_callback'=>'sanitize_text_field'));
+  $c->add_control('atelier_'.$key,array('label'=>$label,'section'=>'atelier_details','type'=>'text'));
  }
 }
 add_action('customize_register','atelier_customize');
 function atelier_setup_notice() {
  if (!current_user_can('edit_theme_options') || get_option('atelier_demo_installed')) return;
- echo '<div class="notice notice-info"><p><strong>Atelier Salon</strong> — Create the starter pages and menu, then edit them in Pages. Existing pages are preserved. This changes your Reading settings. Use on a new site or back up first. Install the optional Atelier Appointments plugin to enable requests.</p><form method="post" action="'.esc_url(admin_url('admin-post.php')).'">';
- wp_nonce_field('atelier_install'); echo '<input type="hidden" name="action" value="atelier_install"><p><button class="button button-primary">Create starter pages</button></p></form></div>';
+ echo '<div class="notice notice-info"><p>'.esc_html__('Atelier Salon — Create the starter pages and menu, then edit them in Pages. Existing pages are preserved. This changes your Reading settings. Use on a new site or back up first. Install the optional Atelier Appointments plugin to enable requests.','atelier-salon').'</p><form method="post" action="'.esc_url(admin_url('admin-post.php')).'">';
+ wp_nonce_field('atelier_install'); echo '<input type="hidden" name="action" value="atelier_install"><p><button class="button button-primary">'.esc_html__('Create starter pages','atelier-salon').'</button></p></form></div>';
 }
 add_action('admin_notices','atelier_setup_notice');
 function atelier_install() {
- if (!current_user_can('edit_theme_options')) wp_die('Permission denied');
+ if (!current_user_can('edit_theme_options')) wp_die(esc_html__('Permission denied.','atelier-salon'));
  check_admin_referer('atelier_install');
+ $result=atelier_prepare_site();if(is_wp_error($result))wp_die(esc_html($result->get_error_message())); wp_safe_redirect(admin_url('edit.php?post_type=page')); exit;
+}
+function atelier_prepare_site() {
+ if (!current_user_can('edit_theme_options')) return new WP_Error('forbidden',__('Permission denied.','atelier-salon'));
+ $was_installed=(bool)get_option('atelier_demo_installed');
  $data=require get_template_directory().'/starter-content.php'; $ids=array();
  foreach($data as $slug=>$item) {
   $existing=get_page_by_path($slug);
   if ($existing) { $ids[$slug]=$existing->ID; continue; }
-  $id=wp_insert_post(array('post_type'=>'page','post_status'=>'publish','post_title'=>$item[0],'post_name'=>$slug,'post_content'=>$item[1]),true);
-  if (is_wp_error($id)) wp_die(esc_html($id->get_error_message()));
+  $id=wp_insert_post(array('post_type'=>'page','post_status'=>$slug==='privacy-policy'?'draft':'publish','post_title'=>$item[0],'post_name'=>$slug,'post_content'=>$item[1]),true);
+  if (is_wp_error($id)) return $id;
   $ids[$slug]=$id;
  }
- update_option('show_on_front','page'); update_option('page_on_front',$ids['home']); update_option('page_for_posts',$ids['blog']);
+ if (!$was_installed) { update_option('show_on_front','page'); update_option('page_on_front',$ids['home']); update_option('page_for_posts',$ids['blog']); }
  $locations=get_theme_mod('nav_menu_locations',array());
  if (empty($locations['primary'])) {
   $menu_name='Atelier Primary'; $suffix=2;
@@ -66,7 +72,7 @@ function atelier_install() {
    $locations['primary']=$menu; set_theme_mod('nav_menu_locations',$locations);
   }
  }
- update_option('atelier_demo_installed',1); wp_safe_redirect(admin_url('edit.php?post_type=page')); exit;
+ update_option('atelier_demo_installed',1); return $ids;
 }
 add_action('admin_post_atelier_install','atelier_install');
 
@@ -82,7 +88,7 @@ function atelier_patterns() {
  register_block_pattern_category('atelier-salon',array('label'=>__('Atelier Salon','atelier-salon')));
  $pages=require get_template_directory().'/starter-content.php';
  foreach(array_merge(array('home','studio-home','about','services','portfolio','our-team','contact'),atelier_service_page_slugs()) as $slug) {
-  register_block_pattern('atelier-salon/'.$slug,array('title'=>'Atelier — '.$pages[$slug][0],'categories'=>array('atelier-salon'),'content'=>$pages[$slug][1]));
+  register_block_pattern('atelier-salon/'.$slug,array('title'=>sprintf(__('Atelier — %s','atelier-salon'),$pages[$slug][0]),'categories'=>array('atelier-salon'),'content'=>$pages[$slug][1]));
  }
 }
 add_action('init','atelier_patterns');
@@ -155,3 +161,7 @@ function atelier_direction_class($classes){
  return $classes;
 }
 add_filter('body_class','atelier_direction_class');
+
+require_once get_template_directory().'/elementor.php';
+
+add_filter('the_title',function($title){return trim(wp_strip_all_tags($title))==='' && !is_admin() ? __('Untitled','atelier-salon') : $title;});

@@ -1,95 +1,71 @@
-ATELIER SALON 3.0 — INSTALLATION & BUYER GUIDE
+ATELIER SALON 3.1.0 — INSTALL AND EDIT
+Seller: Naznin Kamal
+Support: najninkamalrimi@gmail.com
+Source/updates: https://github.com/Nazninkamal/atelier-salon
 
-PACKAGE CONTENTS
-atelier-salon.zip: installable parent theme
-atelier-salon-child.zip: optional child theme for custom code
-atelier-appointments.zip: optional standalone request-form plugin
-INSTALL.txt, CHANGELOG.txt, RELEASE-STATUS.txt: documentation
+INSTALL
+Unzip the commercial package first. Upload the inner atelier-salon.zip under
+Appearance > Themes > Add New > Upload Theme and activate it. Optionally upload
+atelier-salon-child.zip and activate the child while retaining the parent.
+Upload atelier-appointments.zip under Plugins > Add New > Upload Plugin when
+appointment requests are wanted. Neither a paid builder nor Elementor Pro is
+required. WordPress and plugins are separate dependencies.
 
-NEW INSTALLATION
-1. Upload atelier-salon.zip under Appearance > Themes > Add New and activate.
-2. Click Create starter pages in the dashboard notice. Back up existing sites:
-   this changes Reading settings and creates published demo pages.
-3. Set your site name in Settings > General, then add a logo and contact details
-   in Appearance > Customize. Adjust your menu in Appearance > Menus.
-4. Edit pages using native WordPress Group, Heading, Paragraph and Image blocks.
-   Reusable full-page patterns are available under Patterns > Atelier Salon.
-5. Replace inspiration photos, sample staff descriptions, and demonstration copy.
-   Add prices, accurate hours, contact details, booking terms and privacy details.
-6. Publish journal stories under Posts. Featured images appear on story cards.
-7. Install the optional appointment plugin under Plugins > Add New > Upload.
-   Set its recipient under Settings > General > Appointment email. Configure
-   WordPress email delivery and test it before accepting customer requests.
+WordPress BLOCK PAGES
+The Create starter pages notice creates the block pages and menu. On its first
+run it changes Reading settings, as disclosed in the notice. Existing pages are
+preserved; reruns preserve edits, menu assignments and Reading settings. Privacy
+copy stays draft until reviewed and published. The Warm editorial pattern/page
+is named Editorial studio demo. Change visual direction in Appearance > Customize
+> Atelier design. Edit pages in the native block editor and insert Atelier Salon
+patterns from the pattern library. Changing the visual direction does not replace
+page content. Back up content before replacing a layout.
 
-EXISTING INSTALLATIONS / UPGRADES
-The setup button never overwrites existing pages and does not replace their
-content on upgrade. To use redesigned layouts in an existing page, back up its
-content, then replace its blocks with an Atelier pattern in the editor.
-The 2.0 appointment form moved into the optional plugin; install it to retain
-requests after updating. Set the recipient again in Settings > General.
-Use the child theme for custom PHP and CSS. Keep the parent installed.
+ELEMENTOR FREE PAGES
+Install and activate Elementor Free. Open Appearance > Atelier Elementor setup.
+Click Create Elementor pages. This creates fourteen separate editable pages,
+including Home, Editorial studio, About, Services, Our work, Team, Contact,
+Book appointment and six service details. It retains all native block pages.
+The homepage checkbox is optional and initially unchecked. Existing menus remain
+assigned: choose your Elementor pages in Appearance > Menus when switching the
+whole site. Direct Edit with Elementor links appear on the setup screen.
 
-EDITING
-The page patterns use core WordPress blocks. Select a Group in List View to
-navigate nested layouts. Keep structural CSS classes if you want the demo layout.
-Use the theme.json palette for matching content colors. Typography and theme
-styles are loaded in the editor. No Elementor or paid page builder is required.
-Choose one of three color collections under Appearance > Customize > Atelier
-design, or set a custom accent (check its contrast before publishing).
-Header/footer and advanced layout changes use PHP templates or the child theme.
-The site uses one primary menu; child menu items are supported.
+Use Navigator to select sections, headings, images and text. Change headings and
+copy in Content, replace images with the Image widget, and use Style controls for
+typography/colors. Appointment areas use the Free Shortcode widget. The theme
+supplies layout defaults; retain its CSS classes to keep the original design.
+Header/footer and shared salon details remain in the theme/Customizer, not an
+Elementor Pro Theme Builder. Re-running setup reuses existing pages, including
+non-public pages, without changing saved designs. Trashed pages must be restored
+manually. Existing block pages provide a fallback if Elementor is inactive.
 
-APPOINTMENTS
-The shortcode [atelier_booking] belongs to the optional plugin, not the theme.
-It emails a request; it does not reserve a time or process payments. The theme
-shows a contact message if the plugin is inactive. No request database is created.
-If you switch themes, the plugin and shortcode remain available, but you must
-style the form for your new theme. Add scheduling software for live availability.
+Translate interface strings with the supplied languages/*.pot files and a standard
+PO editor/translation plugin. Save the resulting theme/plugin MO files under their
+languages directory or the normal wp-content/languages/themes/plugins locations.
+Starter copy translates when inserted; existing buyer content is never translated
+or replaced automatically. Theme palette labels are included in the theme POT.
 
-LICENSES AND COMMERCIAL USE
-Theme and plugin code: GPL v2 or later. You can sell GPL code, but must preserve
-license rights and third-party notices. No proprietary Curtis code or assets are
-included. Replace the placeholder author/product metadata with your business
-identity before distribution. Do not imply marketplace approval or certification.
-Fonts: local DM Sans and Cormorant Garamond, SIL Open Font License; license files
-are bundled in assets/fonts. No external font requests are made by the theme.
-Photos: Unsplash License (see IMAGE-CREDITS.txt). Photos are demo inspiration,
-not evidence of salon work or actual team members. Decide which images to bundle
-with your product after reviewing the marketplace asset policy and image rights.
-Theme code licensing does not change photo licensing.
+BUSINESS CONTENT
+Set your site title/logo, phone, address and hours in Settings > General and
+Appearance > Customize. Replace fictional demo models, copy, service durations
+and contact instructions with accurate business information. Use your own salon
+photos. Review/publish privacy and appointment/cancellation policies.
 
-SUPPORT AND RELEASE
-See RELEASE-STATUS.txt for completed checks and tests still required. A WordPress/PHP runtime smoke test and mocked appointment-flow tests passed.
-This is a release candidate, not a certified marketplace release. Set your support contact,
-refund terms, update policy and compatibility claims before selling.
+APPOINTMENT EMAIL
+This plugin emails requests; it does not reserve a slot, take payment or maintain
+a calendar/booking database. Set Settings > General > Appointment email. Blank
+uses the WordPress administrator email. Configure a reputable SMTP/transactional
+mail plugin with your provider's verified sending domain. Keep credentials in
+WordPress/provider configuration, never in theme files or GitHub.
+Exclude booking pages and pages containing the shortcode from full-page/CDN
+caching. The plugin sets DONOTCACHEPAGE and no-cache headers, but an upstream
+cache can serve a page before PHP runs. Exclude admin-post.php from caching.
+Test a real request, confirmation/error messaging, spam-folder placement and
+recipient delivery on the target hosting. A successful SMTP handoff is not proof
+of inbox delivery. Do not launch a salon request workflow without that test.
 
-If WordPress already has a draft privacy policy page, setup preserves it. Review
-and publish that page manually; the footer only links published privacy pages.
-
-GRADIENT COLLECTION
-Tonal gradients follow the selected color collection. Four matching gradient
-presets are available in the block editor. Custom accent colors still need a
-contrast check. Gradients are CSS-only; service-image motion is unchanged.
-
-SERVICE DETAIL PAGES (2.3)
-Six core-block layouts cover Cut & Finish, Color & Gloss, Balayage, Scalp &
-Repair, Occasion Styling and Consultation. Fresh setup includes them and adds
-service submenu entries. Existing sites can use the Add missing service pages
-notice; this preserves content, menus and Reading settings. Link existing page
-content manually or insert the updated Home/Services pattern after backing up.
-Service detail pages contain preparation notes, FAQs, related services and a
-booking link. Replace illustrative service descriptions and durations as needed.
-
-NOIR HAIR SALON DIRECTION (3.0)
-The new default homepage uses a black editorial canvas, oversized wordmark,
-monochrome portrait, linked service menu, staggered image gallery, appointment
-request area, studio story and sample service combinations. No awards, pricing,
-or staff identities are fabricated. Replace illustrative copy with your details.
-The previous warm homepage is retained as the Editorial studio demo page and
-block pattern. Choose Visual direction under Appearance > Customize > Atelier
-design. New page content is not applied over existing edited pages. To change an
-existing Home page, back it up and insert the updated Atelier Home pattern.
-The optional appointment plugin is required for request handling.
-
-The hosted appointment form is a demonstration and never sends requests.
-The installed WordPress companion plugin provides the real email form.
+UPDATES AND SUPPORT
+Read SUPPORT.md, LICENSING.md and the current TEST-REPORT.md. Back up first, test
+updates on staging, and retain the parent theme when using the child. No automatic
+updater is included. No guaranteed support SLA or lifetime updates are promised.
+The storefront's purchase/refund terms must be shown before payment.

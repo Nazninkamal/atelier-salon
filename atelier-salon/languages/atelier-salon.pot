@@ -1,0 +1,1957 @@
+# Copyright (C) 2026 Naznin Kamal
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Atelier Salon 3.1.0\n"
+"Report-Msgid-Bugs-To: mailto:najninkamalrimi@gmail.com\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-11-08T09:24:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.12.0\n"
+"X-Domain: atelier-salon\n"
+
+#. Theme Name of the theme
+#: style.css
+#: functions.php:88
+msgid "Atelier Salon"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://github.com/Nazninkamal/atelier-salon"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "An original editorial salon theme with services, team, portfolio, journal and appointment request pages. Inspired by spacious salon design."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Naznin Kamal"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://github.com/Nazninkamal"
+msgstr ""
+
+#: 404.php:1
+msgid "404 / PAGE NOT FOUND"
+msgstr ""
+
+#: 404.php:1
+msgid "A little off course."
+msgstr ""
+
+#: 404.php:1
+msgid "We couldn't find that page. Let's get you back to the studio."
+msgstr ""
+
+#: 404.php:1
+msgid "Back home ↗"
+msgstr ""
+
+#: comments.php:1
+msgid "Conversation"
+msgstr ""
+
+#: elementor.php:17
+msgid "Editable section"
+msgstr ""
+
+#: elementor.php:51
+#: elementor.php:82
+#: functions.php:44
+#: functions.php:49
+#: functions.php:145
+msgid "Permission denied."
+msgstr ""
+
+#: elementor.php:52
+msgid "Install and activate Elementor Free first."
+msgstr ""
+
+#: elementor.php:54
+msgid "Elementor setup is already running. If it was interrupted, retry in five minutes."
+msgstr ""
+
+#: elementor.php:87
+#: elementor.php:90
+msgid "Atelier Elementor setup"
+msgstr ""
+
+#: elementor.php:90
+msgid "Create 14 separate pages editable with Elementor Free. Existing pages, menus and edits are preserved. Header and footer stay in the theme."
+msgstr ""
+
+#: elementor.php:91
+msgid "Install and activate Elementor Free"
+msgstr ""
+
+#: elementor.php:94
+msgid "Use the new Elementor Home as my homepage"
+msgstr ""
+
+#: elementor.php:94
+msgid "Create Elementor pages"
+msgstr ""
+
+#: elementor.php:98
+#, php-format
+msgid "Edit %s with Elementor"
+msgstr ""
+
+#: elementor.php:99
+msgid "Support: najninkamalrimi@gmail.com"
+msgstr ""
+
+#: footer.php:1
+msgid "A LITTLE TIME, JUST FOR YOU"
+msgstr ""
+
+#: footer.php:1
+msgid "Your next chapter."
+msgstr ""
+
+#: footer.php:1
+msgid "A more personal kind of salon."
+msgstr ""
+
+#: footer.php:1
+msgid "Find us"
+msgstr ""
+
+#: footer.php:1
+msgid "Add your salon address in the Customizer."
+msgstr ""
+
+#: footer.php:1
+msgid "Visit"
+msgstr ""
+
+#: footer.php:1
+msgid "Opening hours coming soon."
+msgstr ""
+
+#: footer.php:1
+msgid "Get in touch ↗"
+msgstr ""
+
+#: footer.php:1
+#: starter-content.php:8
+msgid "Privacy policy"
+msgstr ""
+
+#: footer.php:1
+msgid "Back to top ↑"
+msgstr ""
+
+#: functions.php:6
+msgid "Atelier outline"
+msgstr ""
+
+#: functions.php:12
+msgid "Primary navigation"
+msgstr ""
+
+#: functions.php:25
+#: starter-content.php:8
+msgid "Home"
+msgstr ""
+
+#: functions.php:25
+msgid "About"
+msgstr ""
+
+#: functions.php:25
+msgid "Services"
+msgstr ""
+
+#: functions.php:25
+msgid "Our work"
+msgstr ""
+
+#: functions.php:25
+msgid "Team"
+msgstr ""
+
+#: functions.php:25
+msgid "Journal"
+msgstr ""
+
+#: functions.php:25
+msgid "Contact"
+msgstr ""
+
+#: functions.php:30
+msgid "Salon details"
+msgstr ""
+
+#: functions.php:31
+msgid "Phone number"
+msgstr ""
+
+#: functions.php:31
+msgid "Salon address"
+msgstr ""
+
+#: functions.php:31
+msgid "Opening hours"
+msgstr ""
+
+#: functions.php:39
+msgid "Atelier Salon — Create the starter pages and menu, then edit them in Pages. Existing pages are preserved. This changes your Reading settings. Use on a new site or back up first. Install the optional Atelier Appointments plugin to enable requests."
+msgstr ""
+
+#: functions.php:40
+msgid "Create starter pages"
+msgstr ""
+
+#: functions.php:81
+msgid "Please contact the salon directly to request an appointment."
+msgstr ""
+
+#: functions.php:91
+#, php-format
+msgid "Atelier — %s"
+msgstr ""
+
+#: functions.php:97
+msgid "Atelier design"
+msgstr ""
+
+#: functions.php:99
+msgid "Color collection"
+msgstr ""
+
+#: functions.php:99
+msgid "Applies to the Warm editorial studio direction."
+msgstr ""
+
+#: functions.php:99
+msgid "Parchment & Clay"
+msgstr ""
+
+#: functions.php:99
+msgid "Ivory & Olive"
+msgstr ""
+
+#: functions.php:99
+msgid "Rose & Cocoa"
+msgstr ""
+
+#: functions.php:101
+msgid "Custom accent (optional)"
+msgstr ""
+
+#: functions.php:101
+msgid "Overrides the collection accent. Check text contrast after changing."
+msgstr ""
+
+#: functions.php:129
+msgid "Atelier: six dedicated service layouts are available. Add missing pages without replacing existing content, menus, or Reading settings."
+msgstr ""
+
+#: functions.php:131
+msgid "Add missing service pages"
+msgstr ""
+
+#: functions.php:156
+msgid "Visual direction"
+msgstr ""
+
+#: functions.php:156
+msgid "Noir hair salon"
+msgstr ""
+
+#: functions.php:156
+msgid "Warm editorial studio"
+msgstr ""
+
+#: functions.php:167
+msgid "Untitled"
+msgstr ""
+
+#: header.php:3
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:4
+msgid "HAIR & BEAUTY STUDIO"
+msgstr ""
+
+#: header.php:5
+msgid "Menu "
+msgstr ""
+
+#: header.php:6
+msgid "Main navigation"
+msgstr ""
+
+#: header.php:7
+msgid "Book a visit "
+msgstr ""
+
+#: index.php:1
+msgid "NOTES FROM THE STUDIO"
+msgstr ""
+
+#: index.php:1
+#: starter-content.php:8
+msgid "The journal"
+msgstr ""
+
+#: index.php:1
+#, php-format
+msgid "Search: %s"
+msgstr ""
+
+#: index.php:1
+msgid "Read story ↗"
+msgstr ""
+
+#: index.php:1
+msgid "Stories from the studio are coming soon."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Atelier Elementor Full Width"
+msgstr ""
+
+#: starter-content.php:8
+msgid "About the studio"
+msgstr ""
+
+#: starter-content.php:8
+#: starter-translations.php:104
+msgid "Balayage"
+msgstr ""
+
+#: starter-content.php:8
+#: starter-translations.php:129
+msgid "Color & gloss"
+msgstr ""
+
+#: starter-content.php:8
+#: starter-translations.php:141
+msgid "Consultation"
+msgstr ""
+
+#: starter-content.php:8
+#: starter-translations.php:150
+msgid "Cut & finish"
+msgstr ""
+
+#: starter-content.php:8
+msgid "Editorial studio demo"
+msgstr ""
+
+#: starter-content.php:8
+msgid "Meet the team"
+msgstr ""
+
+#: starter-content.php:8
+#: starter-translations.php:230
+msgid "Occasion styling"
+msgstr ""
+
+#: starter-content.php:8
+msgid "Reserve your moment"
+msgstr ""
+
+#: starter-content.php:8
+#: starter-translations.php:257
+msgid "Scalp & repair"
+msgstr ""
+
+#: starter-content.php:8
+msgid "Selected work"
+msgstr ""
+
+#: starter-content.php:8
+msgid "The service edit"
+msgstr ""
+
+#: starter-content.php:8
+msgid "Visit the studio"
+msgstr ""
+
+#: starter-translations.php:5
+msgid "Illustrative salon portrait; replace with your own business photograph"
+msgstr ""
+
+#: starter-translations.php:8
+msgid ""
+"\n"
+"[atelier_booking]\n"
+""
+msgstr ""
+
+#: starter-translations.php:11
+msgid "01 / Cut & finish"
+msgstr ""
+
+#: starter-translations.php:12
+msgid "01 / LISTEN"
+msgstr ""
+
+#: starter-translations.php:13
+msgid "01 / THE SERVICE EDIT"
+msgstr ""
+
+#: starter-translations.php:14
+msgid "01 — THE ATELIER EXPERIENCE"
+msgstr ""
+
+#: starter-translations.php:15
+msgid "02 / CREATE"
+msgstr ""
+
+#: starter-translations.php:16
+msgid "02 / Color & gloss"
+msgstr ""
+
+#: starter-translations.php:17
+msgid "02 / INSIDE THE ATELIER"
+msgstr ""
+
+#: starter-translations.php:18
+msgid "02 / SELECTED LOOKS"
+msgstr ""
+
+#: starter-translations.php:19
+msgid "03 / Balayage"
+msgstr ""
+
+#: starter-translations.php:20
+msgid "03 / CARE"
+msgstr ""
+
+#: starter-translations.php:21
+msgid "03 / SELECTED LOOKS"
+msgstr ""
+
+#: starter-translations.php:22
+msgid "03 / YOUR NEXT VISIT"
+msgstr ""
+
+#: starter-translations.php:23
+msgid "04 / INSIDE THE ATELIER"
+msgstr ""
+
+#: starter-translations.php:24
+msgid "04 / Scalp & repair"
+msgstr ""
+
+#: starter-translations.php:25
+msgid "04 / YOUR FIRST VISIT"
+msgstr ""
+
+#: starter-translations.php:26
+msgid "05 / CURATED EXPERIENCES"
+msgstr ""
+
+#: starter-translations.php:27
+msgid "05 / Occasion styling"
+msgstr ""
+
+#: starter-translations.php:28
+msgid "06 / Consultation"
+msgstr ""
+
+#: starter-translations.php:29
+msgid "120–180 min"
+msgstr ""
+
+#: starter-translations.php:30
+msgid "120–180 min · Tailored to you"
+msgstr ""
+
+#: starter-translations.php:31
+msgid "20 min"
+msgstr ""
+
+#: starter-translations.php:32
+msgid "20 min · Tailored to you"
+msgstr ""
+
+#: starter-translations.php:33
+msgid "45 min"
+msgstr ""
+
+#: starter-translations.php:34
+msgid "45 min · Tailored to you"
+msgstr ""
+
+#: starter-translations.php:35
+msgid "60 min"
+msgstr ""
+
+#: starter-translations.php:36
+msgid "60 min · Tailored to you"
+msgstr ""
+
+#: starter-translations.php:37
+msgid "60–90 min"
+msgstr ""
+
+#: starter-translations.php:38
+msgid "60–90 min · Tailored to you"
+msgstr ""
+
+#: starter-translations.php:39
+msgid "90–120 min"
+msgstr ""
+
+#: starter-translations.php:40
+msgid "90–120 min · Tailored to you"
+msgstr ""
+
+#: starter-translations.php:41
+msgid "A FEW THINGS TO KNOW"
+msgstr ""
+
+#: starter-translations.php:42
+msgid "A MOMENT, JUST FOR YOU"
+msgstr ""
+
+#: starter-translations.php:43
+msgid "A NOTE ON OUR PHILOSOPHY"
+msgstr ""
+
+#: starter-translations.php:44
+msgid "A SPACE TO FEEL LIKE YOURSELF."
+msgstr ""
+
+#: starter-translations.php:45
+msgid "A considered approach"
+msgstr ""
+
+#: starter-translations.php:46
+msgid "A considered finish, with practical advice to recreate the feeling at home."
+msgstr ""
+
+#: starter-translations.php:47
+msgid "A consultation is a planning appointment unless the salon confirms otherwise. Request treatment time separately."
+msgstr ""
+
+#: starter-translations.php:48
+msgid "A conversation"
+msgstr ""
+
+#: starter-translations.php:49
+msgid "A conversation. A fresh perspective. A place to begin."
+msgstr ""
+
+#: starter-translations.php:50
+msgid "A cut that feels right. Color that catches the light. A moment to recognize yourself, all over again."
+msgstr ""
+
+#: starter-translations.php:51
+msgid "A different"
+msgstr ""
+
+#: starter-translations.php:52
+msgid "A familiar reflection"
+msgstr ""
+
+#: starter-translations.php:53
+msgid "A familiar reflection ↗"
+msgstr ""
+
+#: starter-translations.php:54
+msgid "A fresh point of view."
+msgstr ""
+
+#: starter-translations.php:55
+msgid "A good place"
+msgstr ""
+
+#: starter-translations.php:56
+msgid "A lasting feeling"
+msgstr ""
+
+#: starter-translations.php:57
+msgid "Illustrative salon editorial image; replace with your own studio photograph"
+msgstr ""
+
+#: starter-translations.php:58
+msgid "A little"
+msgstr ""
+
+#: starter-translations.php:59
+msgid "A little of everything."
+msgstr ""
+
+#: starter-translations.php:60
+msgid "A little time to ask questions, explore possibilities, and build a plan. A consultation is a thoughtful first step when you are considering a change."
+msgstr ""
+
+#: starter-translations.php:61
+msgid "A little time."
+msgstr ""
+
+#: starter-translations.php:62
+msgid "A look that’s yours."
+msgstr ""
+
+#: starter-translations.php:63
+msgid "A moment in the mirror. A familiar face. A little more confidence in the person looking back."
+msgstr ""
+
+#: starter-translations.php:64
+msgid "A moment of restorative cosmetic care."
+msgstr ""
+
+#: starter-translations.php:65
+msgid "A moment to pause. A stylist who listens. Hair that feels as good on an ordinary Tuesday as it does when you leave the chair."
+msgstr ""
+
+#: starter-translations.php:66
+msgid "A naturally luminous color story, made just for you."
+msgstr ""
+
+#: starter-translations.php:67
+msgid "A new perspective."
+msgstr ""
+
+#: starter-translations.php:68
+msgid "A pause for you."
+msgstr ""
+
+#: starter-translations.php:69
+msgid "A personalized approach to dimension, with lighter pieces placed to complement the way your hair falls and the look you want to create."
+msgstr ""
+
+#: starter-translations.php:70
+msgid "A quieter kind"
+msgstr ""
+
+#: starter-translations.php:71
+msgid "A restorative salon ritual focused on how your hair and scalp feel, with product choices guided by a conversation about your routine and concerns."
+msgstr ""
+
+#: starter-translations.php:72
+msgid "A shape that moves with you. A finish that feels effortless."
+msgstr ""
+
+#: starter-translations.php:73
+msgid "A shape that’s"
+msgstr ""
+
+#: starter-translations.php:74
+msgid "A space to slow down. A conversation that starts with you. From a subtle refresh to a new direction, we believe great hair should belong to the person wearing it."
+msgstr ""
+
+#: starter-translations.php:75
+msgid "A stylist carefully tending to a client’s hair"
+msgstr ""
+
+#: starter-translations.php:76
+msgid "A thoughtful approach to shape, color, and care. Explore a service and find your next ritual."
+msgstr ""
+
+#: starter-translations.php:77
+msgid "A warm and inviting salon space"
+msgstr ""
+
+#: starter-translations.php:78
+msgid "An illustrative model looking at a salon mirror"
+msgstr ""
+
+#: starter-translations.php:79
+msgid "A woman recognizing herself in an arched salon mirror"
+msgstr ""
+
+#: starter-translations.php:80
+msgid "APPOINTMENT"
+msgstr ""
+
+#: starter-translations.php:81
+msgid "ATELIER / A MORE PERSONAL KIND OF SALON"
+msgstr ""
+
+#: starter-translations.php:82
+msgid "Add your address, phone, and opening hours in Appearance → Customize → Salon details. Your contact information appears in the footer on every page."
+msgstr ""
+
+#: starter-translations.php:83
+msgid "Add your business identity, privacy contact, applicable rights, retention periods, hosting and email providers, and any analytics or cookies used by your installation. Review WordPress’s privacy policy guidance for site-specific details."
+msgstr ""
+
+#: starter-translations.php:84
+msgid "Advice, rituals, and recommendations to care for your hair between visits."
+msgstr ""
+
+#: starter-translations.php:85
+msgid "Agree on the next step, including timing, any tests, and an estimate from the salon."
+msgstr ""
+
+#: starter-translations.php:86
+msgid "All work"
+msgstr ""
+
+#: starter-translations.php:87
+msgid "Allow extra time for a first appointment. Share any previous lightening, home color, or smoothing treatments, and discuss testing requirements with the salon."
+msgstr ""
+
+#: starter-translations.php:88
+msgid "An editorial portrait with glossy chestnut waves against a dark studio background"
+msgstr ""
+
+#: starter-translations.php:89
+msgid "An expression"
+msgstr ""
+
+#: starter-translations.php:90
+msgid "An inspiration collection."
+msgstr ""
+
+#: starter-translations.php:91
+msgid "An original monochrome editorial portrait of an illustrative salon creative"
+msgstr ""
+
+#: starter-translations.php:92
+msgid "And the memories."
+msgstr ""
+
+#: starter-translations.php:93
+msgid "Appointment requests"
+msgstr ""
+
+#: starter-translations.php:94
+msgid "Arrange a consultation ↗"
+msgstr ""
+
+#: starter-translations.php:95
+msgid "Ask the salon before booking. Requirements depend on the products, manufacturer instructions, and local rules."
+msgstr ""
+
+#: starter-translations.php:96
+msgid "Ask the salon to provide an estimate and explain what could affect the final cost before booking a service."
+msgstr ""
+
+#: starter-translations.php:97
+msgid "Ask when making your request so the salon can plan enough time and confirm the full service."
+msgstr ""
+
+#: starter-translations.php:98
+msgid "Ask your stylist for preparation instructions. The answer depends on your hair and the planned look."
+msgstr ""
+
+#: starter-translations.php:99
+msgid "Atelier"
+msgstr ""
+
+#: starter-translations.php:100
+msgid "Atelier is a demonstration salon concept, created around an idea: the best care makes room for the individual."
+msgstr ""
+
+#: starter-translations.php:101
+msgid "BEAUTY, IN YOUR OWN REFLECTION."
+msgstr ""
+
+#: starter-translations.php:102
+msgid "BEFORE YOU ARRIVE"
+msgstr ""
+
+#: starter-translations.php:103
+msgid "Balance"
+msgstr ""
+
+#: starter-translations.php:105
+msgid "Balayage inspiration image"
+msgstr ""
+
+#: starter-translations.php:106
+msgid "Balayage ↗"
+msgstr ""
+
+#: starter-translations.php:107
+msgid "Beautiful hair."
+msgstr ""
+
+#: starter-translations.php:108
+msgid "Beautifully"
+msgstr ""
+
+#: starter-translations.php:109
+msgid "Before your visit"
+msgstr ""
+
+#: starter-translations.php:110
+msgid "Begin with you."
+msgstr ""
+
+#: starter-translations.php:111
+msgid "Bring a few reference images and tell us how much time you like to spend styling. Mention any concerns or previous treatments during your consultation."
+msgstr ""
+
+#: starter-translations.php:112
+msgid "Bring inspiration images and a summary of recent color or chemical treatments. Make a note of the questions you would like to ask."
+msgstr ""
+
+#: starter-translations.php:113
+msgid "COLOR & BALAYAGE"
+msgstr ""
+
+#: starter-translations.php:114
+msgid "COME FIND YOUR MOMENT"
+msgstr ""
+
+#: starter-translations.php:115
+msgid "CUT & FINISH"
+msgstr ""
+
+#: starter-translations.php:116
+msgid "Can I add it to a haircut?"
+msgstr ""
+
+#: starter-translations.php:117
+msgid "Can I book a complete restyle?"
+msgstr ""
+
+#: starter-translations.php:118
+msgid "Can I book a trial?"
+msgstr ""
+
+#: starter-translations.php:119
+msgid "Can I book my treatment afterwards?"
+msgstr ""
+
+#: starter-translations.php:120
+msgid "Can I combine balayage with a haircut?"
+msgstr ""
+
+#: starter-translations.php:121
+msgid "Can one visit achieve my reference shade?"
+msgstr ""
+
+#: starter-translations.php:122
+msgid "Can this treat a scalp condition?"
+msgstr ""
+
+#: starter-translations.php:123
+msgid "Care"
+msgstr ""
+
+#: starter-translations.php:124
+msgid "Care beyond the chair."
+msgstr ""
+
+#: starter-translations.php:125
+msgid "Care from the root."
+msgstr ""
+
+#: starter-translations.php:126
+msgid "Care that begins at the root."
+msgstr ""
+
+#: starter-translations.php:127
+msgid "Choose a consultation and tell us a little about your hair."
+msgstr ""
+
+#: starter-translations.php:128
+msgid "Color"
+msgstr ""
+
+#: starter-translations.php:130
+msgid "Color & gloss inspiration image"
+msgstr ""
+
+#: starter-translations.php:131
+msgid "Color & gloss ↗"
+msgstr ""
+
+#: starter-translations.php:132
+msgid "Color consultation · Personalized color plan · Finishing advice"
+msgstr ""
+
+#: starter-translations.php:133
+msgid "Color services change or maintain a shade; a gloss is often used to refine tone and finish. Your colorist will explain the options for your hair."
+msgstr ""
+
+#: starter-translations.php:134
+msgid "Color with depth."
+msgstr ""
+
+#: starter-translations.php:135
+msgid "Confirmed by the salon"
+msgstr ""
+
+#: starter-translations.php:136
+msgid "Consider the details."
+msgstr ""
+
+#: starter-translations.php:137
+msgid "Considered care."
+msgstr ""
+
+#: starter-translations.php:138
+msgid "Considered cuts, expressive color, and a little space to be yourself. Welcome to your new ritual."
+msgstr ""
+
+#: starter-translations.php:139
+msgid "Considered details for the moments you’ll remember."
+msgstr ""
+
+#: starter-translations.php:140
+msgid "Consult"
+msgstr ""
+
+#: starter-translations.php:142
+msgid "Consultation inspiration image"
+msgstr ""
+
+#: starter-translations.php:143
+msgid "Consultation · Cut & finish · Cosmetic care ritual"
+msgstr ""
+
+#: starter-translations.php:144
+msgid "Consultation ↗"
+msgstr ""
+
+#: starter-translations.php:145
+msgid "Contact the salon directly to confirm their availability, services, and any arrangements for groups."
+msgstr ""
+
+#: starter-translations.php:146
+msgid "Contact the salon directly. Add your booking and cancellation policies here."
+msgstr ""
+
+#: starter-translations.php:147
+msgid "Continue"
+msgstr ""
+
+#: starter-translations.php:148
+msgid "Create"
+msgstr ""
+
+#: starter-translations.php:149
+msgid "Cut"
+msgstr ""
+
+#: starter-translations.php:151
+msgid "Cut & finish inspiration image"
+msgstr ""
+
+#: starter-translations.php:152
+msgid "Cut & finish ↗"
+msgstr ""
+
+#: starter-translations.php:153
+msgid "Data handling"
+msgstr ""
+
+#: starter-translations.php:154
+msgid "Dimension and light, thoughtfully considered."
+msgstr ""
+
+#: starter-translations.php:155
+msgid "Discover our approach ↗"
+msgstr ""
+
+#: starter-translations.php:156
+msgid "Discover this service ↗"
+msgstr ""
+
+#: starter-translations.php:157
+msgid "Discuss a trial when you enquire, especially for an important occasion or a more detailed style."
+msgstr ""
+
+#: starter-translations.php:158
+msgid "Do I need an allergy test?"
+msgstr ""
+
+#: starter-translations.php:159
+msgid "Do you offer group or bridal bookings?"
+msgstr ""
+
+#: starter-translations.php:160
+msgid "Enquire ↗"
+msgstr ""
+
+#: starter-translations.php:161
+msgid "Entirely yours."
+msgstr ""
+
+#: starter-translations.php:162
+msgid "Every head of hair has a story."
+msgstr ""
+
+#: starter-translations.php:163
+msgid "Explore"
+msgstr ""
+
+#: starter-translations.php:164
+msgid "Explore balayage ↗"
+msgstr ""
+
+#: starter-translations.php:165
+msgid "Explore color & gloss ↗"
+msgstr ""
+
+#: starter-translations.php:166
+msgid "Explore consultation ↗"
+msgstr ""
+
+#: starter-translations.php:167
+msgid "Explore cut & finish ↗"
+msgstr ""
+
+#: starter-translations.php:168
+msgid "Explore occasion styling ↗"
+msgstr ""
+
+#: starter-translations.php:169
+msgid "Explore our services ↗"
+msgstr ""
+
+#: starter-translations.php:170
+msgid "Explore scalp & repair ↗"
+msgstr ""
+
+#: starter-translations.php:171
+msgid "Expressive color."
+msgstr ""
+
+#: starter-translations.php:172
+msgid "Final adjustments and practical advice help you plan the rest of your day."
+msgstr ""
+
+#: starter-translations.php:173
+msgid "Find your appointment ↗"
+msgstr ""
+
+#: starter-translations.php:174
+msgid "Finish"
+msgstr ""
+
+#: starter-translations.php:175
+msgid "Finishing touches and a tailored aftercare conversation complete your visit."
+msgstr ""
+
+#: starter-translations.php:176
+msgid "For a care-focused visit or an added ritual alongside another salon service."
+msgstr ""
+
+#: starter-translations.php:177
+msgid "For a maintenance trim, a fresh shape, or a change you’ve been considering."
+msgstr ""
+
+#: starter-translations.php:178
+msgid "For a new look, a color change, an unfamiliar service, or a second opinion on your options."
+msgstr ""
+
+#: starter-translations.php:179
+msgid "For a tonal refresh, added depth, or a personalized color plan."
+msgstr ""
+
+#: starter-translations.php:180
+msgid "For celebrations, evenings, special events, and an extra-considered finishing touch."
+msgstr ""
+
+#: starter-translations.php:181
+msgid "For softly blended dimension, brightness around the face, or a gradual move toward lighter hair."
+msgstr ""
+
+#: starter-translations.php:182
+msgid "For the moment."
+msgstr ""
+
+#: starter-translations.php:183
+msgid "For the moments that stay with you."
+msgstr ""
+
+#: starter-translations.php:184
+msgid "For the moments you will remember."
+msgstr ""
+
+#: starter-translations.php:185
+msgid "For your next moment."
+msgstr ""
+
+#: starter-translations.php:186
+msgid "From a subtle refresh to a new silhouette, a thoughtful cut begins with the way you live — and the way your hair naturally moves."
+msgstr ""
+
+#: starter-translations.php:187
+msgid "From the first conversation to the final finishing touch."
+msgstr ""
+
+#: starter-translations.php:188
+msgid "GOOD HAIR BEGINS WITH GOOD CARE."
+msgstr ""
+
+#: starter-translations.php:189
+msgid "Good hair begins"
+msgstr ""
+
+#: starter-translations.php:190
+msgid "Good hands."
+msgstr ""
+
+#: starter-translations.php:191
+msgid "Great company."
+msgstr ""
+
+#: starter-translations.php:192
+msgid "Hair that feels like you."
+msgstr ""
+
+#: starter-translations.php:193
+msgid "How do I book?"
+msgstr ""
+
+#: starter-translations.php:194
+msgid "How much upkeep does it need?"
+msgstr ""
+
+#: starter-translations.php:195
+msgid "How often should I return?"
+msgstr ""
+
+#: starter-translations.php:196
+msgid "INDEPENDENT HAIR STUDIO"
+msgstr ""
+
+#: starter-translations.php:197
+msgid "Illustrative service combinations. Ask the salon about availability and pricing."
+msgstr ""
+
+#: starter-translations.php:198
+msgid "Illustrative stylist portrait; replace with your actual team"
+msgstr ""
+
+#: starter-translations.php:199
+msgid "Imagine"
+msgstr ""
+
+#: starter-translations.php:200
+msgid "Individual expression."
+msgstr ""
+
+#: starter-translations.php:201
+msgid "Inside the studio ↗"
+msgstr ""
+
+#: starter-translations.php:202
+msgid "Introduce the people who help tell yours."
+msgstr ""
+
+#: starter-translations.php:203
+msgid "Introduce your lead stylist, their experience, and their approach to shape and movement."
+msgstr ""
+
+#: starter-translations.php:204
+msgid "Is a treatment included?"
+msgstr ""
+
+#: starter-translations.php:205
+msgid "Is balayage only for blonde hair?"
+msgstr ""
+
+#: starter-translations.php:206
+msgid "LET’S FIND YOUR STARTING POINT"
+msgstr ""
+
+#: starter-translations.php:207
+msgid "Leave with practical advice about your routine and when to seek further guidance."
+msgstr ""
+
+#: starter-translations.php:208
+msgid "Leave with thoughtful aftercare advice and hair that fits your everyday life."
+msgstr ""
+
+#: starter-translations.php:209
+msgid "Less rush."
+msgstr ""
+
+#: starter-translations.php:210
+msgid "Let the salon know your event time and whether you plan to wear accessories or a veil. Ask for preparation instructions; they may differ depending on the style."
+msgstr ""
+
+#: starter-translations.php:211
+msgid "Light & dimension"
+msgstr ""
+
+#: starter-translations.php:212
+msgid "Light & dimension ↗"
+msgstr ""
+
+#: starter-translations.php:213
+msgid "Light in every strand."
+msgstr ""
+
+#: starter-translations.php:214
+msgid "Light, reflected in every strand."
+msgstr ""
+
+#: starter-translations.php:215
+msgid "Listen"
+msgstr ""
+
+#: starter-translations.php:216
+msgid "Listen first."
+msgstr ""
+
+#: starter-translations.php:217
+msgid "Lived-in light."
+msgstr ""
+
+#: starter-translations.php:218
+msgid "Make a little"
+msgstr ""
+
+#: starter-translations.php:219
+msgid "Make the feeling last."
+msgstr ""
+
+#: starter-translations.php:220
+msgid "Meet the people behind the care ↗"
+msgstr ""
+
+#: starter-translations.php:221
+msgid "Meet the team ↗"
+msgstr ""
+
+#: starter-translations.php:222
+msgid "More "
+msgstr ""
+
+#: starter-translations.php:223
+msgid "Natural texture"
+msgstr ""
+
+#: starter-translations.php:224
+msgid "Need to change your plans?"
+msgstr ""
+
+#: starter-translations.php:225
+msgid "New hair."
+msgstr ""
+
+#: starter-translations.php:226
+msgid "No. The technique can create dimension in different shades; suitability depends on your hair and your color goals."
+msgstr ""
+
+#: starter-translations.php:227
+msgid "Not sure which service is right for you? Start with a consultation."
+msgstr ""
+
+#: starter-translations.php:228
+msgid "Not sure which service?"
+msgstr ""
+
+#: starter-translations.php:229
+msgid "OUR SPACE. YOUR STORY."
+msgstr ""
+
+#: starter-translations.php:231
+msgid "Occasion styling inspiration image"
+msgstr ""
+
+#: starter-translations.php:232
+msgid "Occasion styling ↗"
+msgstr ""
+
+#: starter-translations.php:233
+msgid "Our work is to help you feel it."
+msgstr ""
+
+#: starter-translations.php:234
+msgid "PERSONAL BY DESIGN"
+msgstr ""
+
+#: starter-translations.php:235
+msgid "PRICING"
+msgstr ""
+
+#: starter-translations.php:236
+msgid "Personal consultations · Considered techniques · Beautiful everyday hair"
+msgstr ""
+
+#: starter-translations.php:237
+msgid "Personal, by design."
+msgstr ""
+
+#: starter-translations.php:238
+msgid "Place"
+msgstr ""
+
+#: starter-translations.php:239
+msgid "Placement can support softer grow-out, but toning, trims, and care needs vary. Your colorist can suggest a realistic plan."
+msgstr ""
+
+#: starter-translations.php:240
+msgid "Plan"
+msgstr ""
+
+#: starter-translations.php:241
+msgid "Plan your visit ↗"
+msgstr ""
+
+#: starter-translations.php:242
+msgid "Preferred dates and times are requests. This form does not show live availability."
+msgstr ""
+
+#: starter-translations.php:243
+msgid "Quiet confidence."
+msgstr ""
+
+#: starter-translations.php:244
+msgid "Ready for your"
+msgstr ""
+
+#: starter-translations.php:245
+msgid "Refine"
+msgstr ""
+
+#: starter-translations.php:246
+msgid "Replace these images with your own work."
+msgstr ""
+
+#: starter-translations.php:247
+msgid "Replace this introduction with your own story — where you began, what you value, and the experience you want every guest to have."
+msgstr ""
+
+#: starter-translations.php:248
+msgid "Request an appointment ↗"
+msgstr ""
+
+#: starter-translations.php:249
+msgid "Request this service ↗"
+msgstr ""
+
+#: starter-translations.php:250
+msgid "Reserve your moment ↗"
+msgstr ""
+
+#: starter-translations.php:251
+msgid "Restorative rituals for your scalp, your hair, and you."
+msgstr ""
+
+#: starter-translations.php:252
+msgid "SCROLL TO DISCOVER ↓"
+msgstr ""
+
+#: starter-translations.php:253
+msgid "SHAPE / COLOR / TEXTURE"
+msgstr ""
+
+#: starter-translations.php:254
+msgid "STYLING & CARE"
+msgstr ""
+
+#: starter-translations.php:255
+msgid "Same "
+msgstr ""
+
+#: starter-translations.php:256
+msgid "Sample services and durations. Add your salon’s prices, consultation details, and treatment menu before publishing."
+msgstr ""
+
+#: starter-translations.php:258
+msgid "Scalp & repair inspiration image"
+msgstr ""
+
+#: starter-translations.php:259
+msgid "Scalp & repair ↗"
+msgstr ""
+
+#: starter-translations.php:260
+msgid "Scroll to discover ↓"
+msgstr ""
+
+#: starter-translations.php:261
+msgid "See you"
+msgstr ""
+
+#: starter-translations.php:262
+msgid "Send an appointment request. The salon will contact you to confirm availability."
+msgstr ""
+
+#: starter-translations.php:263
+msgid "Service durations are illustrative. Your salon confirms pricing and the full treatment plan."
+msgstr ""
+
+#: starter-translations.php:264
+msgid "Shape"
+msgstr ""
+
+#: starter-translations.php:265
+msgid "Shape, movement, and an effortless finish."
+msgstr ""
+
+#: starter-translations.php:266
+msgid "Shape, texture, light, and movement — balanced with your everyday routine."
+msgstr ""
+
+#: starter-translations.php:267
+msgid "Shape, tone, texture, and everyday life."
+msgstr ""
+
+#: starter-translations.php:268
+msgid "Share"
+msgstr ""
+
+#: starter-translations.php:269
+msgid "Share your color specialist’s story, training, and signature techniques."
+msgstr ""
+
+#: starter-translations.php:270
+msgid "Share your plans, outfit details, accessories, and inspiration."
+msgstr ""
+
+#: starter-translations.php:271
+msgid "Share your recent color history, including home color and chemical treatments. Ask the salon about allergy testing and preparation requirements before your appointment."
+msgstr ""
+
+#: starter-translations.php:272
+msgid "Should I bring inspiration photos?"
+msgstr ""
+
+#: starter-translations.php:273
+msgid "Should I wash my hair beforehand?"
+msgstr ""
+
+#: starter-translations.php:274
+msgid "Simple advice for the days in between."
+msgstr ""
+
+#: starter-translations.php:275
+msgid "Soft dimension, a tonal refresh, or a richer finish. A considered color service brings your shade into focus while respecting your starting point."
+msgstr ""
+
+#: starter-translations.php:276
+msgid "Soft dimension. Thoughtful placement. Beautiful light."
+msgstr ""
+
+#: starter-translations.php:277
+msgid "Soft movement"
+msgstr ""
+
+#: starter-translations.php:278
+msgid "Soft movement ↗"
+msgstr ""
+
+#: starter-translations.php:279
+msgid "Soft movement. A shape that’s yours."
+msgstr ""
+
+#: starter-translations.php:280
+msgid "Soft texture, a polished finish, or an expressive shape — considered styling that complements the occasion and still feels like you."
+msgstr ""
+
+#: starter-translations.php:281
+msgid "Softly blended brightness with a personal touch."
+msgstr ""
+
+#: starter-translations.php:282
+msgid "Softly styled natural hair texture"
+msgstr ""
+
+#: starter-translations.php:283
+msgid "Starter privacy notice — customize before publishing."
+msgstr ""
+
+#: starter-translations.php:284
+msgid "Style"
+msgstr ""
+
+#: starter-translations.php:285
+msgid "Style consultation · Occasion styling · Finishing touches"
+msgstr ""
+
+#: starter-translations.php:286
+msgid "Styling"
+msgstr ""
+
+#: starter-translations.php:287
+msgid "Sunlight falling through a warm, carefully designed salon interior"
+msgstr ""
+
+#: starter-translations.php:288
+msgid "Sunlit dimension"
+msgstr ""
+
+#: starter-translations.php:289
+msgid "Sunlit dimension, thoughtfully placed."
+msgstr ""
+
+#: starter-translations.php:290
+msgid "THE ATELIER MENU"
+msgstr ""
+
+#: starter-translations.php:291
+msgid "THE ATELIER MENU / BALAYAGE"
+msgstr ""
+
+#: starter-translations.php:292
+msgid "THE ATELIER MENU / COLOR & GLOSS"
+msgstr ""
+
+#: starter-translations.php:293
+msgid "THE ATELIER MENU / CONSULTATION"
+msgstr ""
+
+#: starter-translations.php:294
+msgid "THE ATELIER MENU / CUT & FINISH"
+msgstr ""
+
+#: starter-translations.php:295
+msgid "THE ATELIER MENU / OCCASION STYLING"
+msgstr ""
+
+#: starter-translations.php:296
+msgid "THE ATELIER MENU / SCALP & REPAIR"
+msgstr ""
+
+#: starter-translations.php:297
+msgid "THOUGHTFUL BY NATURE."
+msgstr ""
+
+#: starter-translations.php:298
+msgid "Tell guests about the person behind the finishing touches and restorative rituals."
+msgstr ""
+
+#: starter-translations.php:299
+msgid "Tell the salon about sensitivities and recent treatments. These are cosmetic salon services, not medical treatments; persistent irritation or scalp concerns should be assessed by a qualified clinician."
+msgstr ""
+
+#: starter-translations.php:300
+msgid "Tell us about your hair, your routine, and what you have in mind."
+msgstr ""
+
+#: starter-translations.php:301
+msgid "Tell us about your routine, recent services, and what you would like to change."
+msgstr ""
+
+#: starter-translations.php:302
+msgid "Tell us what you have in mind. We’ll get back to you to confirm the details."
+msgstr ""
+
+#: starter-translations.php:303
+msgid "The art of"
+msgstr ""
+
+#: starter-translations.php:304
+msgid "The color story"
+msgstr ""
+
+#: starter-translations.php:305
+msgid "The complete service edit ↗"
+msgstr ""
+
+#: starter-translations.php:306
+msgid "The evening edit"
+msgstr ""
+
+#: starter-translations.php:307
+msgid "The feeling."
+msgstr ""
+
+#: starter-translations.php:308
+msgid "The look."
+msgstr ""
+
+#: starter-translations.php:309
+msgid "The occasion"
+msgstr ""
+
+#: starter-translations.php:310
+msgid "The occasion edit"
+msgstr ""
+
+#: starter-translations.php:311
+msgid "The occasion edit ↗"
+msgstr ""
+
+#: starter-translations.php:312
+msgid "The people behind the studio ↗"
+msgstr ""
+
+#: starter-translations.php:313
+msgid "The right questions. An honest conversation. A shared understanding before we begin."
+msgstr ""
+
+#: starter-translations.php:314
+msgid "The salon will recommend an option after discussing your hair, routine, and any sensitivities. Product menus vary."
+msgstr ""
+
+#: starter-translations.php:315
+msgid "The signature edit"
+msgstr ""
+
+#: starter-translations.php:316
+msgid "The theme does not create a separate appointment database. Requests may be retained in the salon’s email system and by any mail delivery plugins or services you configure. A hashed visitor network address is temporarily stored for one minute to limit repeated requests."
+msgstr ""
+
+#: starter-translations.php:317
+msgid "They can be a useful starting point. Your stylist will discuss what works with your texture, routine, and desired result."
+msgstr ""
+
+#: starter-translations.php:318
+msgid "This is a cosmetic care service. It does not diagnose or treat medical conditions; consult a qualified clinician about ongoing symptoms."
+msgstr ""
+
+#: starter-translations.php:319
+msgid "This is an illustrative service page. The salon should confirm its treatment details, appointment lengths, pricing, and policies before publishing."
+msgstr ""
+
+#: starter-translations.php:320
+msgid "Thoughtful cuts."
+msgstr ""
+
+#: starter-translations.php:321
+msgid "Thoughtfully placed."
+msgstr ""
+
+#: starter-translations.php:322
+msgid "Together we find the shape, tone, and treatment that make sense for you."
+msgstr ""
+
+#: starter-translations.php:323
+msgid "Tone, finish, and care recommendations bring the overall look together."
+msgstr ""
+
+#: starter-translations.php:324
+msgid "Understand"
+msgstr ""
+
+#: starter-translations.php:325
+msgid "Usually it can be discussed as an add-on. Ask the salon to confirm suitability and the extra time required."
+msgstr ""
+
+#: starter-translations.php:326
+msgid "View all work ↗"
+msgstr ""
+
+#: starter-translations.php:327
+msgid "View service ↗"
+msgstr ""
+
+#: starter-translations.php:328
+msgid "View the collection ↗"
+msgstr ""
+
+#: starter-translations.php:329
+msgid "Visit the studio ↗"
+msgstr ""
+
+#: starter-translations.php:330
+msgid "WHAT TO EXPECT"
+msgstr ""
+
+#: starter-translations.php:331
+msgid "We believe the best results begin with understanding you — your texture, your routine, your own sense of style."
+msgstr ""
+
+#: starter-translations.php:332
+msgid "We discuss suitable approaches, realistic results, and the maintenance involved."
+msgstr ""
+
+#: starter-translations.php:333
+msgid "We discuss your color history, starting shade, and the result you have in mind."
+msgstr ""
+
+#: starter-translations.php:334
+msgid "We discuss your current routine, sensitivities, and what you would like support with."
+msgstr ""
+
+#: starter-translations.php:335
+msgid "We review your color history, desired contrast, and maintenance preferences."
+msgstr ""
+
+#: starter-translations.php:336
+msgid "We talk about your routine, natural texture, and the shape you have in mind."
+msgstr ""
+
+#: starter-translations.php:337
+msgid "What is the difference between color and gloss?"
+msgstr ""
+
+#: starter-translations.php:338
+msgid "When you request an appointment, your name, email, optional phone number, preferred service, date, time, and message are sent to the salon by email. We use these details to respond to your request."
+msgstr ""
+
+#: starter-translations.php:339
+msgid "Which treatment will I receive?"
+msgstr ""
+
+#: starter-translations.php:340
+msgid "Will I receive a price estimate?"
+msgstr ""
+
+#: starter-translations.php:341
+msgid "YOUR NEXT CHAPTER"
+msgstr ""
+
+#: starter-translations.php:342
+msgid "Yes — request a consultation first if you are planning a major change, so the salon can allow enough time."
+msgstr ""
+
+#: starter-translations.php:343
+msgid "Yes, subject to availability and any preparation or testing requirements discussed during your visit."
+msgstr ""
+
+#: starter-translations.php:344
+msgid "Your choices"
+msgstr ""
+
+#: starter-translations.php:345
+msgid "Your color artist"
+msgstr ""
+
+#: starter-translations.php:346
+msgid "Your colorist plans the placement and discusses what your hair can realistically achieve."
+msgstr ""
+
+#: starter-translations.php:347
+msgid "Your colorist selects the approach and explains the time, upkeep, and any required tests."
+msgstr ""
+
+#: starter-translations.php:348
+msgid "Your creative director"
+msgstr ""
+
+#: starter-translations.php:349
+msgid "Your next"
+msgstr ""
+
+#: starter-translations.php:350
+msgid "Your next chapter starts with a conversation."
+msgstr ""
+
+#: starter-translations.php:351
+msgid "Your questions,"
+msgstr ""
+
+#: starter-translations.php:352
+msgid "Your routine, your texture, your own sense of style. We make room for all of it."
+msgstr ""
+
+#: starter-translations.php:353
+msgid "Your starting color and hair condition matter. Your colorist may recommend a gradual plan rather than a single appointment."
+msgstr ""
+
+#: starter-translations.php:354
+msgid "Your story is our starting point."
+msgstr ""
+
+#: starter-translations.php:355
+msgid "Your story shapes our approach."
+msgstr ""
+
+#: starter-translations.php:356
+msgid "Your styling specialist"
+msgstr ""
+
+#: starter-translations.php:357
+msgid "Your stylist can suggest a schedule based on the cut, your growth, and how you prefer to wear your hair."
+msgstr ""
+
+#: starter-translations.php:358
+msgid "Your stylist considers length, balance, and movement before refining the details."
+msgstr ""
+
+#: starter-translations.php:359
+msgid "Your stylist creates a look around your hair, comfort, and the occasion."
+msgstr ""
+
+#: starter-translations.php:360
+msgid "Your stylist explains suitable cosmetic treatments and how they fit into your appointment."
+msgstr ""
+
+#: starter-translations.php:361
+msgid "Your visit,"
+msgstr ""
+
+#: starter-translations.php:362
+msgid "a conversation."
+msgstr ""
+
+#: starter-translations.php:363
+msgid "answered."
+msgstr ""
+
+#: starter-translations.php:364
+msgid "at "
+msgstr ""
+
+#: starter-translations.php:365
+msgid "beautiful."
+msgstr ""
+
+#: starter-translations.php:366
+msgid "begin."
+msgstr ""
+
+#: starter-translations.php:367
+msgid "changes "
+msgstr ""
+
+#: starter-translations.php:368
+msgid "considered."
+msgstr ""
+
+#: starter-translations.php:369
+msgid "entirely yours."
+msgstr ""
+
+#: starter-translations.php:370
+msgid "everything."
+msgstr ""
+
+#: starter-translations.php:371
+msgid "exploring."
+msgstr ""
+
+#: starter-translations.php:372
+msgid "feeling like you."
+msgstr ""
+
+#: starter-translations.php:373
+msgid "good hair day."
+msgstr ""
+
+#: starter-translations.php:374
+msgid "next chapter?"
+msgstr ""
+
+#: starter-translations.php:375
+msgid "of "
+msgstr ""
+
+#: starter-translations.php:376
+msgid "point of view."
+msgstr ""
+
+#: starter-translations.php:377
+msgid "preparation."
+msgstr ""
+
+#: starter-translations.php:378
+msgid "ritual."
+msgstr ""
+
+#: starter-translations.php:379
+msgid "the studio."
+msgstr ""
+
+#: starter-translations.php:380
+msgid "time for you."
+msgstr ""
+
+#: starter-translations.php:381
+msgid "to "
+msgstr ""
+
+#: starter-translations.php:382
+msgid "with "
+msgstr ""
+
+#: starter-translations.php:383
+msgid "you can wear is "
+msgstr ""
+
+#: starter-translations.php:384
+msgid "you."
+msgstr ""
+
+#: starter-translations.php:385
+msgid "yourself."
+msgstr ""
+
+#: starter-translations.php:386
+msgid "“The most beautiful thing"
+msgstr ""
+
+#: starter-translations.php:387
+msgid "← Back to all services"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Parchment"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Espresso"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Clay"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sage"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Forest"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Sand"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Champagne parchment"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Clay & espresso"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Forest after dusk"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Sage & champagne"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Editorial serif"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Studio sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Display"
+msgstr ""

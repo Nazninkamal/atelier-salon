@@ -1,0 +1,22 @@
+[
+  {
+    "version": "7.4",
+    "status": 200,
+    "exitCode": 0,
+    "php": "7.4.34-dev",
+    "wordpress": "6.4.7",
+    "pages": 16,
+    "rendered": true,
+    "appointment": true
+  },
+  {
+    "version": "8.2",
+    "status": 200,
+    "exitCode": 0,
+    "php": "8.2.35",
+    "wordpress": "6.4.7",
+    "pages": 16,
+    "rendered": true,
+    "appointment": true
+  }
+]

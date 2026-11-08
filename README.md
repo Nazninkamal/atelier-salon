@@ -1,25 +1,21 @@
-# Atelier Salon
+# Atelier Salon 3.1.0
 
-WordPress salon theme **3.0.1**, optional child theme and appointment-request plugin, imported from the supplied commercial package.
+A ready-made salon theme with **14 optional Elementor Free pages**, native WordPress block patterns, an optional child theme and an appointment-request plugin. No Elementor Pro required.
 
-**Status: release candidate — not ready for a general paid launch.** See the [commercial readiness review](review/SALE-READINESS.md) for confirmed defects, release blockers, tests and sales-channel guidance.
+- [Download the commercial package](dist/atelier-commercial-package-3.1.0.zip)
+- [Download only the parent theme](dist/atelier-salon-3.1.0.zip)
+- [Installation guide](docs/INSTALL.html)
+- [Verification report](docs/TEST-REPORT.md) · [Readiness](review/SALE-READINESS.md)
+- [Desktop Elementor preview](review/3.1-home-1440.jpg) · [Mobile warm preview](review/3.1-studio-home-390.jpg)
+- [Seller/support](docs/SUPPORT.md) · [Licensing](docs/LICENSING.md)
 
-- [Download original commercial package](dist/atelier-commercial-package.zip)
-- [Installation and buyer guide](docs/INSTALL.txt)
-- [Desktop WordPress preview](review/home-1440.jpg) · [Mobile preview](review/home-390.jpg) · [Block editor](review/editor.jpg)
-- [Original release notes](docs/RELEASE-STATUS.txt)
+Install the inner theme ZIP, then Elementor Free. Open **Appearance → Atelier Elementor setup → Create Elementor pages**. The optional checkbox makes the new Elementor Home your homepage. Existing block pages, menus and designs remain intact; direct editing links appear on setup. Choose your Elementor pages in Appearance → Menus when switching the whole site.
 
-## Repository layout
+Edit headings, text, images and sections with Elementor; appointment areas use its Free Shortcode widget. Header/footer stay in the theme/Customizer. The companion plugin emails requests; it does not reserve slots or take payments.
 
-- `atelier-salon/`: unchanged parent-theme source.
-- `atelier-salon-child/`: unchanged optional child-theme source.
-- `atelier-appointments/`: unchanged standalone plugin source.
-- `dist/`: original uploaded commercial package and SHA-256 checksum.
-- `docs/`: original package documentation.
-- `review/`: independent findings, test results, screenshots and source checksums.
+Resolved warm-mobile overflow, completed translation hooks/POTs, added license files and the theme preview, replaced stock demo files with the supplied illustrative AI imagery, and added seller/support details. Tested Chromium/Firefox, SQLite/MariaDB, two WordPress series, native PHP 8.4 and additional PHP-WASM 7.4/8.2 smoke checks. See the report for exact scope.
 
-Unzip the commercial package first. Upload the inner `atelier-salon.zip` under Appearance → Themes; upload `atelier-appointments.zip` under Plugins if request handling is required. The optional child theme requires the parent to remain installed. Review the setup action's Reading-settings changes before using it on an existing site.
+**Before a real salon launch:** configure SMTP on the target hosting, verify inbox delivery and replace demo business content. Local real SMTP transport tests passed; external delivery cannot be certified without the buyer's provider. Marketplace approval is not implied.
 
-Pages use native WordPress blocks. **This package does not include Elementor templates.** The appointment form emails requests; it does not reserve time slots or process payments.
-
-Code declares GPL v2 or later. Local fonts include SIL OFL notices; photos have separate terms in [IMAGE-CREDITS.txt](atelier-salon/IMAGE-CREDITS.txt). Full code-license packaging and asset clearance are review items, not certified by this import. Original source and ZIP were not modified during review.
+Seller: **Naznin Kamal** — **najninkamalrimi@gmail.com**.
+Source code is GPL v2 or later; fonts retain SIL OFL notices. The original uploaded ZIP remains archived at `dist/atelier-commercial-package.zip`; use the versioned 3.1.0 package for new installations.
